@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="AdditionalAnimations" value="Дополнительная анимация"/>
-	<entry name="AdditionalDesign" value="Дополнительный дизайн"/>
-	<entry name="AdditionalGraphics" value="Дополнительная графика"/>
-	<entry name="AdditionalProgramming" value="Дополнительное программирование"/>
-	<entry name="AdditionalWriting" value="Дополнительные тексты"/>
-	<entry name="Administration" value="Администрация"/>
-	<entry name="Animations" value="Анимации"/>
-	<entry name="Chairman" value="Председатель"/>
-	<entry name="CreativeDirector" value="Креативный директор"/>
-	<entry name="CustomerSupport" value="Служба поддержки"/>
-	<entry name="DesignAndProgramming" value="Дизайн и программирование"/>
-	<entry name="DevelopedBy" value="Разработчик %1%"/>
-	<entry name="DevelopmentDirector" value="Директор по развитию"/>
-	<entry name="Fonts" value="Шрифты"/>
-	<entry name="FrenchLocalisation" value="Французская локализация"/>
-	<entry name="GermanLocalisation" value="Немецкая локализация"/>
-	<entry name="Graphics" value="Графика"/>
-	<entry name="GraphicsAndAnimations" value="Графика и анимация"/>
-	<entry name="IntroCinematics" value="Вступительные видеоролики"/>
-	<entry name="MediaRelations" value="Связи со СМИ"/>
-	<entry name="JuniorProductManager" value="Младший менеджер по продукции"/>
-	<entry name="Libraries" value="Библиотеки"/>
-	<entry name="Manual" value="Руководство по игре"/>
-	<entry name="ManualLayout" value="Макет Руководства по игре"/>
-	<entry name="MarketingDirector" value="Директор по маркетингу"/>
-	<entry name="Music" value="Музыка"/>
-	<entry name="OperationsDirector" value="Финансовый директор"/>
-	<entry name="Producers" value="Продюсеры"/>
-	<entry name="ProductManagers" value="Менеджеры продуктов"/>
-	<entry name="ProductionDesign" value="Дизайн продукции"/>
-	<entry name="ProductionLead" value="Руководство производством"/>
-	<entry name="ProductionTeam" value="Производственная команда"/>
-	<entry name="PublishedBy" value="Издатель %1%"/>
-	<entry name="RussianLocalisation" value="Русская локализация"/>
+	<entry name="AdditionalAnimations" value="Додаткова анімація"/>
+	<entry name="AdditionalDesign" value="Додатковий дизайн"/>
+	<entry name="AdditionalGraphics" value="Додаткова графіка"/>
+	<entry name="AdditionalProgramming" value="Додаткове програмування"/>
+	<entry name="AdditionalWriting" value="Додаткові тексти"/>
+	<entry name="Administration" value="Адміністрація"/>
+	<entry name="Animations" value="Анімації"/>
+	<entry name="Chairman" value="Голова"/>
+	<entry name="CreativeDirector" value="Креативний директор"/>
+	<entry name="CustomerSupport" value="Служба підтримки"/>
+	<entry name="DesignAndProgramming" value="Дизайн і програмування"/>
+	<entry name="DevelopedBy" value="Розробник %1%"/>
+	<entry name="DevelopmentDirector" value="Директор з розвитку"/>
+	<entry name="Fonts" value="Шрифти"/>
+	<entry name="FrenchLocalisation" value="Французька локалізація"/>
+	<entry name="GermanLocalisation" value="Німецька локалізація"/>
+	<entry name="Graphics" value="Графіка"/>
+	<entry name="GraphicsAndAnimations" value="Графіка та анімація"/>
+	<entry name="IntroCinematics" value="Вступні відеоролики"/>
+	<entry name="MediaRelations" value="Зв'язки зі ЗМІ"/>
+	<entry name="JuniorProductManager" value="Молодший менеджер з продукції"/>
+	<entry name="Libraries" value="Бібліотеки"/>
+	<entry name="Manual" value="Посібник з гри"/>
+	<entry name="ManualLayout" value="Макет Посібника з гри"/>
+	<entry name="MarketingDirector" value="Директор з маркетингу"/>
+	<entry name="Music" value="Музика"/>
+	<entry name="OperationsDirector" value="Фінансовий директор"/>
+	<entry name="Producers" value="Продюсери"/>
+	<entry name="ProductManagers" value="Менеджери продуктів"/>
+	<entry name="ProductionDesign" value="Дизайн продукції"/>
+	<entry name="ProductionLead" value="Керівництво виробництвом"/>
+	<entry name="ProductionTeam" value="Виробнича команда"/>
+	<entry name="PublishedBy" value="Видавець %1%"/>
+	<entry name="RussianLocalisation" value="Російська локалізація"/>
 	<entry name="Sound" value="Звук"/>
-	<entry name="SpanishLocalisation" value="Испанская локализация"/>
-	<entry name="SpecialThanks" value="Особая благодарность"/>
-	<entry name="TechnicalDirector" value="Технический директор"/>
-	<entry name="Translation" value="Перевод"/>
-	<entry name="VoiceActors" value="Озвучивание"/>
+	<entry name="SpanishLocalisation" value="Іспанська локалізація"/>
+	<entry name="SpecialThanks" value="Особлива подяка"/>
+	<entry name="TechnicalDirector" value="Технічний директор"/>
+	<entry name="Translation" value="Переклад"/>
+	<entry name="VoiceActors" value="Озвучування"/>
 	<entry name="WarhammerBy" value="Warhammer 40000 %1%"/>
 	<entry name="WebDevelopment" value="Web дизайн"/>
 	<entry name="Writing" value="Текст"/>

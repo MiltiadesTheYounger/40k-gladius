@@ -1,146 +1,146 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="AdeptusMechanicus0" value="Пыльные странники"/>
-	<entry name="AdeptusMechanicus1" value="Дизонизаторы"/>
-	<entry name="AdeptusMechanicus2" value="Готическая манипула"/>
-	<entry name="AdeptusMechanicus3" value="Оуд-Оудианцы"/>
+	<entry name="AdeptusMechanicus0" value="Пилюкові мандрівники"/>
+	<entry name="AdeptusMechanicus1" value="Дизонізатори"/>
+	<entry name="AdeptusMechanicus2" value="Готична маніпула"/>
+	<entry name="AdeptusMechanicus3" value="Оуд-Оудіанці"/>
 	<entry name="AdeptusMechanicus4" value="Зайбатсун"/>
-	<entry name="AdeptusMechanicus5" value="Свидетели Тераватта"/>
-	<entry name="AdeptusMechanicus6" value="Признание стали"/>
-	<entry name="AdeptusMechanicus7" value="Марсианские драгуны"/>
-	<entry name="AdeptusMechanicus8" value="Земледробители"/>
-	<entry name="AdeptusMechanicus9" value="Гульден Скриптория"/>
-	<entry name="AdeptusMechanicus10" value="Квесторы-пельтасты"/>
-	<entry name="AdeptusMechanicus11" value="Кибериады"/>
-	<entry name="AdeptusMechanicus12" value="Белизаровцы"/>
+	<entry name="AdeptusMechanicus5" value="Свідки Тераватта"/>
+	<entry name="AdeptusMechanicus6" value="Визнання сталі"/>
+	<entry name="AdeptusMechanicus7" value="Марсіанські драгуни"/>
+	<entry name="AdeptusMechanicus8" value="Землекрушителі"/>
+	<entry name="AdeptusMechanicus9" value="Гульден Скрипторіа"/>
+	<entry name="AdeptusMechanicus10" value="Квестори-пельтасти"/>
+	<entry name="AdeptusMechanicus11" value="Кіберіади"/>
+	<entry name="AdeptusMechanicus12" value="Белізаровці"/>
 	<entry name="AdeptusMechanicusCount" value="13"/>
-	<entry name="AstraMilitarum0" value="Ветераны Мирала"/>
-	<entry name="AstraMilitarum1" value="Нерегулярный Катурский"/>
-	<entry name="AstraMilitarum2" value="Гвардия пустошей Нурта"/>
-	<entry name="AstraMilitarum3" value="Железный кулак Стигии"/>
-	<entry name="AstraMilitarum4" value="Каменный легион Предис-Зета"/>
-	<entry name="AstraMilitarum5" value="Горцы из мира Хаммана"/>
-	<entry name="AstraMilitarum6" value="Изучавший Перлию"/>
-	<entry name="AstraMilitarum7" value="Мститель Кадии"/>
-	<entry name="AstraMilitarum8" value="Танитский летописец"/>
-	<entry name="AstraMilitarum9" value="Приближённые Иолина"/>
-	<entry name="AstraMilitarum10" value="Осадившие Лелитар"/>
-	<entry name="AstraMilitarum11" value="Люди Турмалида"/>
+	<entry name="AstraMilitarum0" value="Ветерани Мірала"/>
+	<entry name="AstraMilitarum1" value="Нерегулярний Катурський"/>
+	<entry name="AstraMilitarum2" value="Гвардія пустош Нурта"/>
+	<entry name="AstraMilitarum3" value="Залізний кулак Стігії"/>
+	<entry name="AstraMilitarum4" value="Кам'яний легіон Предіс-Зета"/>
+	<entry name="AstraMilitarum5" value="Горці зі світу Хаммана"/>
+	<entry name="AstraMilitarum6" value="Вивчавший Перлію"/>
+	<entry name="AstraMilitarum7" value="Месник Кадії"/>
+	<entry name="AstraMilitarum8" value="Танітський літописець"/>
+	<entry name="AstraMilitarum9" value="Наближені Іоліна"/>
+	<entry name="AstraMilitarum10" value="Обложники Лелітар"/>
+	<entry name="AstraMilitarum11" value="Люди Турмаліда"/>
 	<entry name="AstraMilitarumCount" value="12"/>
-	<entry name="ChaosSpaceMarines0" value="Дети Мальстрима"/>
-	<entry name="ChaosSpaceMarines1" value="Сыны Тирана"/>
-	<entry name="ChaosSpaceMarines2" value="Рок Трупа-Императора"/>
-	<entry name="ChaosSpaceMarines3" value="Мучитель Иши"/>
-	<entry name="ChaosSpaceMarines4" value="Блистающие языкодёры"/>
+	<entry name="ChaosSpaceMarines0" value="Діти Мальстрима"/>
+	<entry name="ChaosSpaceMarines1" value="Сини Тирана"/>
+	<entry name="ChaosSpaceMarines2" value="Рок Трупа-Імператора"/>
+	<entry name="ChaosSpaceMarines3" value="Мучитель Іші"/>
+	<entry name="ChaosSpaceMarines4" value="Блискучі язикодери"/>
 	<entry name="ChaosSpaceMarines5" value="Сон Тцаангора"/>
-	<entry name="ChaosSpaceMarines6" value="Кровавые гончие"/>
-	<entry name="ChaosSpaceMarines7" value="Пути, изменившиеся"/>
-	<entry name="ChaosSpaceMarines8" value="Счетоводы"/>
-	<entry name="ChaosSpaceMarines9" value="Когти Хоруса"/>
-	<entry name="ChaosSpaceMarines10" value="Упоительные агонизаторы"/>
-	<entry name="ChaosSpaceMarines11" value="Лишённые душ"/>
+	<entry name="ChaosSpaceMarines6" value="Криваві гончі"/>
+	<entry name="ChaosSpaceMarines7" value="Шляхи, що змінилися"/>
+	<entry name="ChaosSpaceMarines8" value="Рахівники"/>
+	<entry name="ChaosSpaceMarines9" value="Кігті Хоруса"/>
+	<entry name="ChaosSpaceMarines10" value="Упоювальні агонізатори"/>
+	<entry name="ChaosSpaceMarines11" value="Позбавлені душ"/>
 	<entry name="ChaosSpaceMarinesCount" value="12"/>
 	<entry name="Drukhari0" value="Старомодники"/>
-	<entry name="Drukhari1" value="Алебастровые князья"/>
-	<entry name="Drukhari2" value="Жаждущие герцоги"/>
-	<entry name="Drukhari3" value="Душерезы"/>
-	<entry name="Drukhari4" value="Наследие Кхейна"/>
-	<entry name="Drukhari5" value="Награда за пытки"/>
-	<entry name="Drukhari6" value="Терпеливые предатели"/>
-	<entry name="Drukhari7" value="Смерть и изящество"/>
-	<entry name="Drukhari8" value="Падение Кселиан"/>
-	<entry name="Drukhari9" value="Покровы Крайллах"/>
-	<entry name="Drukhari10" value="Пыл Иллитиан"/>
-	<entry name="Drukhari11" value="Подчинённые Шаа-дом"/>
+	<entry name="Drukhari1" value="Алебастрові князі"/>
+	<entry name="Drukhari2" value="Жадібні герцоги"/>
+	<entry name="Drukhari3" value="Душерізи"/>
+	<entry name="Drukhari4" value="Спадщина Кхейна"/>
+	<entry name="Drukhari5" value="Нагорода за катування"/>
+	<entry name="Drukhari6" value="Терплячі зрадники"/>
+	<entry name="Drukhari7" value="Смерть і витонченість"/>
+	<entry name="Drukhari8" value="Падіння Кселіан"/>
+	<entry name="Drukhari9" value="Покрови Крайллах"/>
+	<entry name="Drukhari10" value="Запал Іллітіан"/>
+	<entry name="Drukhari11" value="Підкорені Шаа-дом"/>
 	<entry name="DrukhariCount" value="12"/>
-	<entry name="Eldar0" value="Дикие всадники"/>
-	<entry name="Eldar1" value="Призрачная жатва"/>
-	<entry name="Eldar2" value="Кристаллические рейдеры"/>
-	<entry name="Eldar3" value="Слезы Иши"/>
-	<entry name="Eldar4" value="Молоты Ваула"/>
-	<entry name="Eldar5" value="Экзодитские рыцари"/>
-	<entry name="Eldar6" value="Рунические клинки карги"/>
-	<entry name="Eldar7" value="Крик Эльданеша"/>
-	<entry name="Eldar8" value="Пылающая буря"/>
-	<entry name="Eldar9" value="Тени безмолвия"/>
-	<entry name="Eldar10" value="Охотники за душами"/>
-	<entry name="Eldar11" value="Защитники Девы"/>
+	<entry name="Eldar0" value="Дикі вершники"/>
+	<entry name="Eldar1" value="Примарна жнива"/>
+	<entry name="Eldar2" value="Кристалічні рейдери"/>
+	<entry name="Eldar3" value="Сльози Іші"/>
+	<entry name="Eldar4" value="Молоти Ваула"/>
+	<entry name="Eldar5" value="Екзодитські лицарі"/>
+	<entry name="Eldar6" value="Рунічні клинки карги"/>
+	<entry name="Eldar7" value="Крик Ельданеша"/>
+	<entry name="Eldar8" value="Палаюча буря"/>
+	<entry name="Eldar9" value="Тіні безмовності"/>
+	<entry name="Eldar10" value="Мисливці за душами"/>
+	<entry name="Eldar11" value="Захисники Діви"/>
 	<entry name="EldarCount" value="12"/>
-	<entry name="Necrons0" value="Древние следопыты"/>
-	<entry name="Necrons1" value="Золотые гарпии"/>
-	<entry name="Necrons2" value="Высшая гвардия"/>
-	<entry name="Necrons3" value="Избранники Владыки"/>
-	<entry name="Necrons4" value="Анатомисты"/>
-	<entry name="Necrons5" value="Йота Бесконечного Роя"/>
-	<entry name="Necrons6" value="Языки Обманщика"/>
-	<entry name="Necrons7" value="Погибель палача"/>
-	<entry name="Necrons8" value="Угли Горящего"/>
-	<entry name="Necrons9" value="Тени Потустороннего"/>
-	<entry name="Necrons10" value="Заря Несущего Ночь"/>
+	<entry name="Necrons0" value="Стародавні слідопити"/>
+	<entry name="Necrons1" value="Золоті гарпії"/>
+	<entry name="Necrons2" value="Вища гвардія"/>
+	<entry name="Necrons3" value="Обранці Володаря"/>
+	<entry name="Necrons4" value="Анатомісти"/>
+	<entry name="Necrons5" value="Йота Безкінечного Рою"/>
+	<entry name="Necrons6" value="Язики Обманщика"/>
+	<entry name="Necrons7" value="Погибель ката"/>
+	<entry name="Necrons8" value="Вугілля Палаючого"/>
+	<entry name="Necrons9" value="Тіні Потойбічного"/>
+	<entry name="Necrons10" value="Зоря Несучого Ніч"/>
 	<entry name="NecronsCount" value="11"/>
-	<entry name="Orks0" value="Банда чудил"/>
-	<entry name="Orks1" value="Бизумцы Морка"/>
-	<entry name="Orks2" value="Подлае понторезы"/>
-	<entry name="Orks3" value="Башыи парни"/>
-	<entry name="Orks4" value="Грабежытили"/>
-	<entry name="Orks5" value="Парни Горка"/>
-	<entry name="Orks6" value="Гоффская гвардея"/>
-	<entry name="Orks7" value="Горки Кровавых Топоров"/>
-	<entry name="Orks8" value="Пиришытыи Смерточерипы"/>
-	<entry name="Orks9" value="Банда Дурной Луны"/>
-	<entry name="Orks10" value="Змеееды Змей-Укусов"/>
-	<entry name="Orks11" value="Маняки скорасти Злых Солнц"/>
+	<entry name="Orks0" value="Банда чудиків"/>
+	<entry name="Orks1" value="Божевільні Морка"/>
+	<entry name="Orks2" value="Підлі понторізи"/>
+	<entry name="Orks3" value="Башкові хлопці"/>
+	<entry name="Orks4" value="Грабіжители"/>
+	<entry name="Orks5" value="Хлопці Горка"/>
+	<entry name="Orks6" value="Гоффська гвардія"/>
+	<entry name="Orks7" value="Горки Кривавих Сокир"/>
+	<entry name="Orks8" value="Прокляті Смертечерепи"/>
+	<entry name="Orks9" value="Банда Поганої Луни"/>
+	<entry name="Orks10" value="Змієїди Змій-Укусів"/>
+	<entry name="Orks11" value="Маньяки швидкості Злих Сонць"/>
 	<entry name="OrksCount" value="12"/>
-	<entry name="SistersOfBattle0" value="Просители Терры"/>
-	<entry name="SistersOfBattle1" value="Деленда Эстерс"/>
-	<entry name="SistersOfBattle2" value="Сэмпер Веритас"/>
-	<entry name="SistersOfBattle3" value="Алеаст Иактерс"/>
-	<entry name="SistersOfBattle4" value="Перчатка матери"/>
-	<entry name="SistersOfBattle5" value="Ордо Фамилиарис"/>
-	<entry name="SistersOfBattle6" value="Ауреанский созыв"/>
-	<entry name="SistersOfBattle7" value="Стражи Преисподней"/>
-	<entry name="SistersOfBattle8" value="Несущие благо"/>
-	<entry name="SistersOfBattle9" value="Мемориалисты Селтин"/>
-	<entry name="SistersOfBattle10" value="Проклятие Рагуэля"/>
-	<entry name="SistersOfBattle11" value="Люминарии"/>
+	<entry name="SistersOfBattle0" value="Прохачі Терри"/>
+	<entry name="SistersOfBattle1" value="Деленда Естерс"/>
+	<entry name="SistersOfBattle2" value="Семпер Верітас"/>
+	<entry name="SistersOfBattle3" value="Алеаст Іактерс"/>
+	<entry name="SistersOfBattle4" value="Рукавичка матері"/>
+	<entry name="SistersOfBattle5" value="Ордо Фаміліарис"/>
+	<entry name="SistersOfBattle6" value="Ауреанський скликання"/>
+	<entry name="SistersOfBattle7" value="Вартові Пекла"/>
+	<entry name="SistersOfBattle8" value="Несучі благо"/>
+	<entry name="SistersOfBattle9" value="Меморіалісти Селтін"/>
+	<entry name="SistersOfBattle10" value="Прокляття Рагуеля"/>
+	<entry name="SistersOfBattle11" value="Люмінарії"/>
 	<entry name="SistersOfBattleCount" value="12"/>	
-	<entry name="SpaceMarines0" value="Несокрушимая гвардия"/>
-	<entry name="SpaceMarines1" value="Почётные тактики"/>
-	<entry name="SpaceMarines2" value="Заслуженные ветераны"/>
-	<entry name="SpaceMarines3" value="Церемониальные хранители"/>
-	<entry name="SpaceMarines4" value="Защитник Гладиуса"/>
-	<entry name="SpaceMarines5" value="Бессмертные"/>
-	<entry name="SpaceMarines6" value="Крукс Терминатус"/>
-	<entry name="SpaceMarines7" value="Лаурелс Империалис"/>
+	<entry name="SpaceMarines0" value="Несокрушна гвардія"/>
+	<entry name="SpaceMarines1" value="Почесні тактики"/>
+	<entry name="SpaceMarines2" value="Заслужені ветерани"/>
+	<entry name="SpaceMarines3" value="Церемоніальні хранителі"/>
+	<entry name="SpaceMarines4" value="Захисник Гладіуса"/>
+	<entry name="SpaceMarines5" value="Безсмертні"/>
+	<entry name="SpaceMarines6" value="Крукс Термінатус"/>
+	<entry name="SpaceMarines7" value="Лаурелс Імперіаліс"/>
 	<entry name="SpaceMarines8" value="Честь снайпера"/>
-	<entry name="SpaceMarines9" value="Прайм Хеликс"/>
-	<entry name="SpaceMarines10" value="Печать чистоты"/>
+	<entry name="SpaceMarines9" value="Прайм Хелікс"/>
+	<entry name="SpaceMarines10" value="Печатка чистоти"/>
 	<entry name="SpaceMarines11" value="Машина Опус"/>
 	<entry name="SpaceMarinesCount" value="12"/>
-	<entry name="Tau0" value="Терпеливые охотники"/>
-	<entry name="Tau1" value="Простой удар"/>
-	<entry name="Tau2" value="Отшельники"/>
-	<entry name="Tau3" value="На неведомых волнах"/>
-	<entry name="Tau4" value="Идущие по пути"/>
-	<entry name="Tau5" value="Друзья для всех"/>
-	<entry name="Tau6" value="Отмеченные величием"/>
-	<entry name="Tau7" value="Окончательное спасение"/>
-	<entry name="Tau8" value="Лучшее решение"/>
-	<entry name="Tau9" value="Сила в единстве"/>
-	<entry name="Tau10" value="Тени в огне"/>
-	<entry name="Tau11" value="Те, что ушли"/>
+	<entry name="Tau0" value="Терплячі мисливці"/>
+	<entry name="Tau1" value="Простий удар"/>
+	<entry name="Tau2" value="Відлюдники"/>
+	<entry name="Tau3" value="На невідомих хвилях"/>
+	<entry name="Tau4" value="Йдучі шляхом"/>
+	<entry name="Tau5" value="Друзі для всіх"/>
+	<entry name="Tau6" value="Відмічені величчю"/>
+	<entry name="Tau7" value="Остаточне порятунок"/>
+	<entry name="Tau8" value="Найкраще рішення"/>
+	<entry name="Tau9" value="Сила в єдності"/>
+	<entry name="Tau10" value="Тіні у вогні"/>
+	<entry name="Tau11" value="Ті, що пішли"/>
 	<entry name="TauCount" value="12"/>
-	<entry name="Tyranids0" value="Чистая порода"/>
-	<entry name="Tyranids1" value="Глаза Норна"/>
-	<entry name="Tyranids2" value="Порождение книдоцист"/>
-	<entry name="Tyranids3" value="Жнецы-автофаги"/>
-	<entry name="Tyranids4" value="Акросомная стая"/>
-	<entry name="Tyranids5" value="Лизосомная масса"/>
-	<entry name="Tyranids6" value="Флагеллоидные ужасы"/>
-	<entry name="Tyranids7" value="Кривые пилоиды"/>
-	<entry name="Tyranids8" value="Филакоидные паразиты"/>
-	<entry name="Tyranids9" value="Симбиоты-разрыватели"/>
-	<entry name="Tyranids10" value="Оголодавшие охотники"/>
-	<entry name="Tyranids11" value="Вдохновлённое множество"/>
+	<entry name="Tyranids0" value="Чиста порода"/>
+	<entry name="Tyranids1" value="Очі Норна"/>
+	<entry name="Tyranids2" value="Народження кнідоцист"/>
+	<entry name="Tyranids3" value="Жнеці-автофаги"/>
+	<entry name="Tyranids4" value="Акросомна зграя"/>
+	<entry name="Tyranids5" value="Лізосомна маса"/>
+	<entry name="Tyranids6" value="Флагелоїдні жахи"/>
+	<entry name="Tyranids7" value="Криві пілоїди"/>
+	<entry name="Tyranids8" value="Філакоїдні паразити"/>
+	<entry name="Tyranids9" value="Симбіоти-розривачі"/>
+	<entry name="Tyranids10" value="Голодні мисливці"/>
+	<entry name="Tyranids11" value="Натхненне множество"/>
 	<entry name="TyranidsCount" value="12"/>
 </language>

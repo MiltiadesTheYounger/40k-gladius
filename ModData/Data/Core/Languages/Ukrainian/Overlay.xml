@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="LevelUp" value="&lt;style name='ShadowedHeading' color='GUI/Blue'/&gt;Новый уровень!"/>
+	<entry name="LevelUp" value="&lt;style name='ShadowedHeading' color='GUI/Blue'/&gt;Новий рівень!"/>
 	<entry name="Overwatch" value="&lt;style name='ShadowedHeading'/&gt;&lt;icon height='20' texture='Icons/Actions/Overwatch'/&gt; Дозор"/>
-	<entry name="Rallied" value="&lt;style name='ShadowedHeading' color='GUI/Turquoise'/&gt;Сплочение"/>
-	<entry name="Unleashed" value="&lt;style name='ShadowedHeading'/&gt;Непривязанный"/>
+	<entry name="Rallied" value="&lt;style name='ShadowedHeading' color='GUI/Turquoise'/&gt;Згуртування"/>
+	<entry name="Unleashed" value="&lt;style name='ShadowedHeading'/&gt;Незв'язаний"/>
 </language>

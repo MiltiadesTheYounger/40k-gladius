@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="ConfirmDelete" value="Вы уверены, что хотите удалить “%1%”?"/>
-	<entry name="ConfirmDisband" value="Вы уверены, что хотите распустить “%1%”?"/>
-	<entry name="ConfirmOverwrite" value="Вы уверены, что хотите переписать “%1%”?"/>
-	<entry name="ConfirmRemoveItem" value="Вы уверены, что хотите уничтожить “%1%”?"/>
-	<entry name="ConfirmRestoreDefaults" value="Вы уверены, что хотите восстановить настройки по умолчанию %1% ?"/>
-	<entry name="ConfirmSurrender" value="Вы уверены, что хотите сдаться?"/>
-	<entry name="ConnectingToServer" value="Соединение с сервером…"/>
-	<entry name="ConnectionLost" value="Соединение потеряно."/>
-	<entry name="Error" value="Ошибка"/>
-	<entry name="FollowOnSteam" value="Подпишитесь на нас в Steam, чтобы получать уведомления о новом контенте."/>
-	<entry name="GameLoaded" value="Игра загружена"/>
-	<entry name="GameSaved" value="Игра сохранена"/>
-	<entry name="GraphicsDriverOutdated" value="Ваш графический драйвер устарел.&lt;br/&gt;&lt;br/&gt;Пожалуйста, установите последнюю версию с nvidia.com / amd.com / intel.com для улучшения стабильности и производительности."/>
-	<entry name="IncompatibleVersion" value="Несовместимая версия игры."/>
-	<entry name="Info" value="Инфо"/>
-	<entry name="JoinDiscord" value="Приветствую!&lt;br/&gt;&lt;br/&gt;Наше сообщество в Discord ждёт вас! У нас много игроков, обладающих схожими интересами и обсуждающих Gladius, Warhammer и многое другое.&lt;br/&gt;&lt;br/&gt;— Рок"/>
-	<entry name="Kicked" value="Вас выгнали из сервера."/>
-	<entry name="MasterServerUnreachable" value="Не удалось подключиться к главному серверу."/>
-	<entry name="MissingDLC" value="DLC не установлено."/>
-	<entry name="ModUploading" value="Загрузка мода…"/>
-	<entry name="ModUploadComplete" value="Мод загружен."/>
-	<entry name="ModUploadFailed" value="Мод не загружен."/>
-	<entry name="NoFreeSlots" value="На сервере нет свободного места."/>
-	<entry name="NoGames" value="В настоящее время нет открытых игр.&lt;br/&gt;Почему бы Вам не создать самому новую игру?"/>
-	<entry name="NoMods" value="Моды не установлены."/>
-	<entry name="NoValidTargets" value="&lt;style color='GUI/Red'/&gt;Нет подходящих целей"/>
-	<entry name="PlayerJoined" value="%1% Присоединился."/>
-	<entry name="PlayerLeft" value="%1% Покинул игру."/>
-	<entry name="PleaseEnterYourName" value="Введите ваше имя."/>
-	<entry name="PleaseWait" value="&lt;style color='GUI/Red'/&gt;Пожалуйста, подождите"/>
-	<entry name="ReceivingInfo" value="Получение информации…"/>
-	<entry name="RestartRequired" value="Чтобы изменения вступили в силу, перезапустите игру."/>
-	<entry name="RetrievingServerList" value="Получение списка серверов…"/>
-	<entry name="ScreenShotSaveError" value="Ошибка при сохранении скриншота"/>
-	<entry name="ScreenShotSaved" value="Скриншот сохранен"/>
-	<entry name="SetBinding" value="Нажмите новую комбинацию клавиш для определения %1%."/>
-	<entry name="ServerUnreachable" value="Не удалось подключиться к серверу.&lt;br/&gt;&lt;br/&gt;Чтобы улучшить подключение, убедитесь, что вы отключили брандмауэры и включили UPnP на своем маршрутизаторе или открыли TCP порт %1% на вашей локальной машине."/>
-	<entry name="SelectTarget" value="Выбор цели действия"/>
-	<entry name="TerminatedWithDisableMods" value="Моды были отключены из-за сбоя. Посетите экран модов, чтобы снова включить их."/>
-	<entry name="TermsAndConditions" value="Условия и положения"/>
-	<entry name="TurnTimerPaused" value="%1% время паузы."/>
-	<entry name="TurnTimerUnpaused" value="%1% время без паузы."/>
-	<entry name="UnboundControl" value="Привязки будут удалены у %1%."/>
-	<entry name="Warning" value="Предупреждение"/>
+	<entry name="ConfirmDelete" value="Ви впевнені, що хочете видалити "%1%"?"/>
+	<entry name="ConfirmDisband" value="Ви впевнені, що хочете розпустити "%1%"?"/>
+	<entry name="ConfirmOverwrite" value="Ви впевнені, що хочете перезаписати "%1%"?"/>
+	<entry name="ConfirmRemoveItem" value="Ви впевнені, що хочете знищити "%1%"?"/>
+	<entry name="ConfirmRestoreDefaults" value="Ви впевнені, що хочете відновити налаштування за замовчуванням %1% ?"/>
+	<entry name="ConfirmSurrender" value="Ви впевнені, що хочете здатися?"/>
+	<entry name="ConnectingToServer" value="З'єднання з сервером…"/>
+	<entry name="ConnectionLost" value="З'єднання втрачено."/>
+	<entry name="Error" value="Помилка"/>
+	<entry name="FollowOnSteam" value="Підпишіться на нас у Steam, щоб отримувати сповіщення про новий контент."/>
+	<entry name="GameLoaded" value="Гра завантажена"/>
+	<entry name="GameSaved" value="Гра збережена"/>
+	<entry name="GraphicsDriverOutdated" value="Ваш графічний драйвер застарів.&lt;br/&gt;&lt;br/&gt;Будь ласка, встановіть останню версію з nvidia.com / amd.com / intel.com для поліпшення стабільності та продуктивності."/>
+	<entry name="IncompatibleVersion" value="Несумісна версія гри."/>
+	<entry name="Info" value="Інфо"/>
+	<entry name="JoinDiscord" value="Вітаємо!&lt;br/&gt;&lt;br/&gt;Наша спільнота в Discord чекає на вас! У нас багато гравців зі схожими інтересами, які обговорюють Gladius, Warhammer і багато іншого.&lt;br/&gt;&lt;br/&gt;— Рок"/>
+	<entry name="Kicked" value="Вас виганяли з сервера."/>
+	<entry name="MasterServerUnreachable" value="Не вдалося підключитися до головного сервера."/>
+	<entry name="MissingDLC" value="DLC не встановлено."/>
+	<entry name="ModUploading" value="Завантаження мода…"/>
+	<entry name="ModUploadComplete" value="Мод завантажено."/>
+	<entry name="ModUploadFailed" value="Мод не завантажено."/>
+	<entry name="NoFreeSlots" value="На сервері немає вільного місця."/>
+	<entry name="NoGames" value="Зараз немає відкритих ігор.&lt;br/&gt;Чому б Вам не створити нову гру самому?"/>
+	<entry name="NoMods" value="Моди не встановлені."/>
+	<entry name="NoValidTargets" value="&lt;style color='GUI/Red'/&gt;Немає підходящих цілей"/>
+	<entry name="PlayerJoined" value="%1% Приєднався."/>
+	<entry name="PlayerLeft" value="%1% Покинув гру."/>
+	<entry name="PleaseEnterYourName" value="Введіть ваше ім'я."/>
+	<entry name="PleaseWait" value="&lt;style color='GUI/Red'/&gt;Будь ласка, зачекайте"/>
+	<entry name="ReceivingInfo" value="Отримання інформації…"/>
+	<entry name="RestartRequired" value="Щоб зміни набули чинності, перезапустіть гру."/>
+	<entry name="RetrievingServerList" value="Отримання списку серверів…"/>
+	<entry name="ScreenShotSaveError" value="Помилка при збереженні скриншота"/>
+	<entry name="ScreenShotSaved" value="Скриншот збережено"/>
+	<entry name="SetBinding" value="Натисніть нову комбінацію клавіш для визначення %1%."/>
+	<entry name="ServerUnreachable" value="Не вдалося підключитися до сервера.&lt;br/&gt;&lt;br/&gt;Щоб поліпшити підключення, переконайтеся, що ви відключили брандмауери та ввімкнули UPnP на своєму маршрутизаторі або відкрили TCP порт %1% на вашій локальній машині."/>
+	<entry name="SelectTarget" value="Вибір цілі дії"/>
+	<entry name="TerminatedWithDisableMods" value="Моди були відключені через збій. Відвідайте екран модів, щоб знову їх увімкнути."/>
+	<entry name="TermsAndConditions" value="Умови та положення"/>
+	<entry name="TurnTimerPaused" value="%1% час паузи."/>
+	<entry name="TurnTimerUnpaused" value="%1% час без паузи."/>
+	<entry name="UnboundControl" value="Прив'язки будуть видалені у %1%."/>
+	<entry name="Warning" value="Попередження"/>
 </language>

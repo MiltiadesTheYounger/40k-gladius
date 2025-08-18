@@ -1,36 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
 	<!-- %1% = subject, %2% = object -->
-	<entry name="CityGrownSummary" value="Население %1% достигло %2%."/>
-	<entry name="FactionDefeated" value="Фракция побеждена"/>
-	<entry name="FactionDiscovered" value="Фракция обнаружена"/>
-	<entry name="FactionDiscoveredSummary" value="Обнаружено: %1%."/>
-	<entry name="FeatureExploredSummary" value="%1% приносит %2%."/>
-	<entry name="FeatureTypeDiscoveredSummary" value="Обнаружено: %1%."/>
-	<entry name="LordOfSkullsAppearedSummary" value="%1% появился."/>
-	<entry name="LordOfSkullsDisappearedSummary" value="%1% исчез."/>
-	<entry name="PlayerLost" value="Поражение!"/>
-	<entry name="PlayerLostSummary" value="%1% · %2% %3% потерпели поражение!"/>
-	<entry name="PlayerWon" value="Победа!"/>
-	<entry name="PlayerWonSummary" value="%1% · %2% %3% победили!"/>
+	<entry name="CityGrownSummary" value="Населення %1% досягло %2%."/>
+	<entry name="FactionDefeated" value="Фракцію переможено"/>
+	<entry name="FactionDiscovered" value="Фракцію виявлено"/>
+	<entry name="FactionDiscoveredSummary" value="Виявлено: %1%."/>
+	<entry name="FeatureExploredSummary" value="%1% приносить %2%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="Виявлено: %1%."/>
+	<entry name="LordOfSkullsAppearedSummary" value="%1% з'явився."/>
+	<entry name="LordOfSkullsDisappearedSummary" value="%1% зник."/>
+	<entry name="PlayerLost" value="Поразка!"/>
+	<entry name="PlayerLostSummary" value="%1% · %2% %3% зазнали поразки!"/>
+	<entry name="PlayerWon" value="Перемога!"/>
+	<entry name="PlayerWonSummary" value="%1% · %2% %3% перемогли!"/>
 	<entry name="PlayerWonElimination" value="&lt;string name='Notifications/PlayerWon'/&gt;"/>
 	<entry name="PlayerWonEliminationSummary" value="&lt;string name='Notifications/PlayerWonSummary'/&gt;"/>
 	<entry name="PlayerWonQuest" value="&lt;string name='Notifications/PlayerWon'/&gt;"/>
 	<entry name="PlayerWonQuestSummary" value="&lt;string name='Notifications/PlayerWonSummary'/&gt;"/>
-	<entry name="ProductionCompletedSummary" value="%1% произвёл %2%."/>
-	<entry name="QuestAdded" value="Добавлен квест"/>
-	<entry name="QuestCompleted" value="Квест завершён"/>
-	<entry name="QuestUpdated" value="Квест обновлён"/>
-	<entry name="RegionDiscoveredSummary" value="Обнаружено: %1%."/>
-	<entry name="ResearchCompleted" value="Исследование завершено"/>
-	<entry name="TileAcquiredSummary" value="%1% присоединили плитку."/>
-	<entry name="TileCapturedSummary" value="%1% захватили %2%."/>
-	<entry name="TileClearedSummary" value="%1% очистил %2%."/>
-	<entry name="UnitAttackedSummary" value="%1% атаковал&lt;br/&gt;%2%."/>
-	<entry name="UnitCapturedSummary" value="%1% захватил&lt;br/&gt;%2%."/>
-	<entry name="UnitKilledSummary" value="%1% уничтожил&lt;br/&gt;%2%."/>
-	<entry name="UnitGainedTraitSummary" value="%1% получил %2%."/>
-	<entry name="UnitTransformedSummary" value="%1% превратился в %2%."/>
-	<entry name="UnitTypeDiscoveredSummary" value="Обнаружено: %1%."/>
-	<entry name="UnitUsedActionOnSummary" value="%1% использовал %2% на %3%."/>
+	<entry name="ProductionCompletedSummary" value="%1% виробив %2%."/>
+	<entry name="QuestAdded" value="Додано квест"/>
+	<entry name="QuestCompleted" value="Квест завершено"/>
+	<entry name="QuestUpdated" value="Квест оновлено"/>
+	<entry name="RegionDiscoveredSummary" value="Виявлено: %1%."/>
+	<entry name="ResearchCompleted" value="Дослідження завершено"/>
+	<entry name="TileAcquiredSummary" value="%1% приєднали плитку."/>
+	<entry name="TileCapturedSummary" value="%1% захопили %2%."/>
+	<entry name="TileClearedSummary" value="%1% очистив %2%."/>
+	<entry name="UnitAttackedSummary" value="%1% атакував&lt;br/&gt;%2%."/>
+	<entry name="UnitCapturedSummary" value="%1% захопив&lt;br/&gt;%2%."/>
+	<entry name="UnitKilledSummary" value="%1% знищив&lt;br/&gt;%2%."/>
+	<entry name="UnitGainedTraitSummary" value="%1% отримав %2%."/>
+	<entry name="UnitTransformedSummary" value="%1% перетворився в %2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="Виявлено: %1%."/>
+	<entry name="UnitUsedActionOnSummary" value="%1% використав %2% на %3%."/>
 </language>

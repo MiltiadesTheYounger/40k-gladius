@@ -2,7 +2,7 @@
 <language>
 
 	<!-- Keyboard keys. -->
-	<entry name="Space" value="Пробел"/>
+	<entry name="Space" value="Пробіл"/>
 	<entry name="'" value="'"/>
 	<entry name="," value=","/>
 	<entry name="-" value="-"/>
@@ -53,15 +53,15 @@
 	<entry name="World1" value="World 1"/>
 	<entry name="World2" value="World 2"/>
 	<entry name="Escape" value="Escape"/>
-	<entry name="Enter" value="Ввод"/>
+	<entry name="Enter" value="Введення"/>
 	<entry name="Tab" value="Tab"/>
 	<entry name="Backspace" value="Backspace"/>
 	<entry name="Insert" value="Insert"/>
-	<entry name="Delete" value="Удалить"/>
-	<entry name="ArrowRight" value="Arrow Right"/>
-	<entry name="ArrowLeft" value="Arrow Left"/>
-	<entry name="ArrowDown" value="Arrow Down"/>
-	<entry name="ArrowUp" value="Arrow Up"/>
+	<entry name="Delete" value="Видалити"/>
+	<entry name="ArrowRight" value="Стрілка Вправо"/>
+	<entry name="ArrowLeft" value="Стрілка Вліво"/>
+	<entry name="ArrowDown" value="Стрілка Вниз"/>
+	<entry name="ArrowUp" value="Стрілка Вгору"/>
 	<entry name="PageUp" value="Page Up"/>
 	<entry name="PageDown" value="Page Down"/>
 	<entry name="Home" value="Home"/>
@@ -112,14 +112,14 @@
 	<entry name="KPAdd" value="Numpad +"/>
 	<entry name="KPEnter" value="Numpad Enter"/>
 	<entry name="KPEqual" value="Numpad ="/>
-	<entry name="LeftShift" value="Left Shift"/>
-	<entry name="LeftControl" value="Left Control"/>
-	<entry name="LeftAlt" value="Left Alt"/>
-	<entry name="LeftSuper" value="Left Super"/>
-	<entry name="RightShift" value="Right Shift"/>
-	<entry name="RightControl" value="Right Control"/>
-	<entry name="RightAlt" value="Right Alt"/>
-	<entry name="RightSuper" value="Right Super"/>
+	<entry name="LeftShift" value="Лівий Shift"/>
+	<entry name="LeftControl" value="Лівий Control"/>
+	<entry name="LeftAlt" value="Лівий Alt"/>
+	<entry name="LeftSuper" value="Лівий Super"/>
+	<entry name="RightShift" value="Правий Shift"/>
+	<entry name="RightControl" value="Правий Control"/>
+	<entry name="RightAlt" value="Правий Alt"/>
+	<entry name="RightSuper" value="Правий Super"/>
 	<entry name="Menu" value="Меню"/>
 	
 	<!-- Keyboard modifiers. -->
@@ -129,16 +129,16 @@
 	<entry name="Super" value="Super"/>
 	
 	<!-- Mouse buttons. -->
-	<entry name="MouseLeft" value="Mouse Left"/>
-	<entry name="MouseRight" value="Mouse Right"/>
-	<entry name="MouseMiddle" value="Mouse Middle"/>
-	<entry name="Mouse1" value="Mouse 1"/>
-	<entry name="Mouse2" value="Mouse 2"/>
-	<entry name="Mouse3" value="Mouse 3"/>
-	<entry name="Mouse4" value="Mouse 4"/>
-	<entry name="Mouse5" value="Mouse 5"/>
-	<entry name="Mouse6" value="Mouse 6"/>
-	<entry name="Mouse7" value="Mouse 7"/>
-	<entry name="Mouse8" value="Mouse 8"/>
+	<entry name="MouseLeft" value="Ліва кнопка миші"/>
+	<entry name="MouseRight" value="Права кнопка миші"/>
+	<entry name="MouseMiddle" value="Середня кнопка миші"/>
+	<entry name="Mouse1" value="Кнопка миші 1"/>
+	<entry name="Mouse2" value="Кнопка миші 2"/>
+	<entry name="Mouse3" value="Кнопка миші 3"/>
+	<entry name="Mouse4" value="Кнопка миші 4"/>
+	<entry name="Mouse5" value="Кнопка миші 5"/>
+	<entry name="Mouse6" value="Кнопка миші 6"/>
+	<entry name="Mouse7" value="Кнопка миші 7"/>
+	<entry name="Mouse8" value="Кнопка миші 8"/>
 	
 </language>
