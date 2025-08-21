@@ -1,480 +1,483 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#0" value="Вектор введен."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#1" value="Пять на пять."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#2" value="Начало пролета."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#3" value="Начало этапа насыщения стаббера."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#0" value="Вектор введений."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#1" value="П'ять на п'ять."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#2" value="Початок прольоту."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Attack#3" value="Початок етапу насичення стаббера."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Broken#0" value="Сохранение авиационных средств."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Broken#0" value="Збереження авіаційних засобів."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Hurt#0" value="Крылья подрезаны"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Hurt#0" value="Крила підрізані"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#0" value="Кружу, кружу."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#1" value="Раздача возлияния с воздуха."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#2" value="Изменение давления. Морфирую волокно-переплетение."/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#3" value="Подготовка к эвакуации ползунов."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#0" value="Кружляю, кружляю."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#1" value="Роздача возлияння з повітря."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#2" value="Зміна тиску. Морфую волокно-переплетення."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Idle#3" value="Підготовка до евакуації повзунів."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Shaken#0" value="Подбит, я подбит!"/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Shaken#0" value="Підбитий, я підбитий!"/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Victory#0" value="Вражеские сигнатуры больше не обнаруживаются. Возвращаюсь в круг."/>
+	<entry name="AdeptusMechanicus/ArchaeopterTransvector:Victory#0" value="Ворожі сигнатури більше не виявляються. Повертаюся в коло."/>
 	<entry name="AdeptusMechanicus/ArchaeopterTransvector:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#0" value="Программирую Кастелянов."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#1" value="Руны помазания."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#2" value="Подавление кремнеземного анимуса."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#3" value="Вставка пластин Доктрины."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#0" value="Програмую Кастелянів."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#1" value="Руни помазання."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#2" value="Придушення кремнеземного анімуса."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Attack#3" value="Вставка пластин Доктрини."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Broken#0" value="…Железные люди…"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Broken#0" value="…Залізні люди…"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Hurt#0" value="…не подлежу ремонту…"/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Hurt#0" value="…не підлягаю ремонту…"/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="Мякоть слаба, машина крепка."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#1" value="Бинарный ритм и песня. Я бы хотел, чтобы вы слышали."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#2" value="Дизайн Омниссии не может быть улучшен."/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#3" value="Во имя Империи, Механикума и Омниссии."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#0" value="М'якоть слабка, машина міцна."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#1" value="Бінарний ритм і пісня. Я хотів би, щоб ви чули."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#2" value="Дизайн Омніссії не може бути покращений."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Idle#3" value="В ім'я Імперії, Механікума і Омніссії."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Shaken#0" value="Обнаружены пластины для отступления."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Shaken#0" value="Виявлені пластини для відступу."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Victory#0" value="Древняя мудрость, доказанная сила."/>
+	<entry name="AdeptusMechanicus/CyberneticaDatasmith:Victory#0" value="Давня мудрість, доведена сила."/>
 	<entry name="AdeptusMechanicus/CyberneticaDatasmith:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#0" value="ВАША ПРОМЫШЛЕННОСТЬ НАША"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#1" value="ОТХОДЫ—ЭТО ГРЕХ"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#2" value="ДЛЯ ДВИЖУЩЕЙ СИЛЫ!"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#3" value="Искра движется внутри меня"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#0" value="ВАША ПРОМИСЛОВІСТЬ НАША"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#1" value="ВІДХОДИ—ЦЕ ГРІХ"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#2" value="ДЛЯ РУШІЙНОЇ СИЛИ!"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Attack#3" value="Іскра рухається всередині мене"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Broken#0" value="… наша воля терпит неудачу!"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Broken#0" value="… наша воля зазнає невдачі!"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Hurt#0" value="МЫ ЕЩЕ НА МАРШЕ."/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Hurt#0" value="МИ ЩЕ НА МАРШІ."/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#0" value="Я ПЛАЧУ СЛЕЗАМИ ОМНИССИИ"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#1" value="ПРОКЛЯТЬЯ КОРПУСКАРИЯ"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#2" value="МОЁ ЭЛЕКТРО, ОНО ГОЛОДАЕТ"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#3" value="ВО ИМЯ БОГА МЕХАНИКУСОВ"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#0" value="Я ПЛАЧУ СЛЬОЗАМИ ОМНІССІЇ"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#1" value="ПРОКЛЬОНИ КОРПУСКАРІЯ"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#2" value="МОЄ ЕЛЕКТРО, ВОНО ГОЛОДУЄ"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Idle#3" value="В ІМ'Я БОГА МЕХАНІКУСІВ"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Shaken#0" value="ИСКРЫ"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Shaken#0" value="ІСКРИ"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Victory#0" value="МЫ СИЛЬНЫЕ, ПЕРСОНИФИЦИРОВАННЫЕ"/>
+	<entry name="AdeptusMechanicus/FulguriteElectroPriest:Victory#0" value="МИ СИЛЬНІ, ПЕРСОНІФІКОВАНІ"/>
 	<entry name="AdeptusMechanicus/FulguriteElectroPriest:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#0" value="Они познают мудрость Марса!"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#1" value="Найдено решение для дальнего огня."/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#2" value="Данные цели приняты."/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#3" value="Духи машин разбужены."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#0" value="Вони пізнають мудрість Марса!"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#1" value="Знайдено рішення для дальнього вогню."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#2" value="Дані цілі прийняті."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Attack#3" value="Духи машин розбуджені."/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Broken#0" value="Доминус, мы должны…"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Broken#0" value="Домінус, ми повинні…"/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Hurt#0" value="Монозадачные сервиторы терпят неудачу."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Hurt#0" value="Монозадачні сервітори зазнають невдачі."/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#0" value="Отдыхающие сервиторы."/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#1" value="Смазка шасси."/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#2" value="Устранение слабых мест."/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#3" value="Мечтаю о красной планете …"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#0" value="Відпочиваючі сервітори."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#1" value="Змащення шасі."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#2" value="Усунення слабких місць."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Idle#3" value="Мрію про червону планету …"/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Shaken#0" value="Превосходные решения для стрельбы по противнику!"/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Shaken#0" value="Перевершені рішення для стрільби по противнику!"/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/IronstriderBallistarius:Victory#0" value="В течение 10 000 лет наша победа была фактом."/>
+	<entry name="AdeptusMechanicus/IronstriderBallistarius:Victory#0" value="Протягом 10 000 років наша перемога була фактом."/>
 	<entry name="AdeptusMechanicus/IronstriderBallistarius:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#0" value="C32: Схема стрельбы достигнута."/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#1" value="8-7: Ветвь разрушителя активна."/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#2" value="7T32: Всё вооружение развернуто."/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#3" value="867: Когнис и/или фосфорное зажигание."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#0" value="C32: Схема стрільби досягнута."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#1" value="8-7: Гілка знищувача активна."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#2" value="7T32: Все озброєння розгорнуто."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Attack#3" value="867: Когніс і/або фосфорне запалення."/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Broken#0" value="Только люди боятся. Когда-то мы были…"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Broken#0" value="Тільки люди бояться. Колись ми були…"/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Hurt#0" value="Нарушена функциональность. Сохраняю плоть."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Hurt#0" value="Порушена функціональність. Зберігаю плоть."/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#0" value="T418: Присутствует неактивный сервитор."/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#1" value="182: В ожидании обслуживания."/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#2" value="ОШИБКА: Кем я был?"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#3" value="326: Воспоминания всплывают… подавлены."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#0" value="T418: Присутній неактивний сервітор."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#1" value="182: В очікуванні обслуговування."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#2" value="ПОМИЛКА: Ким я був?"/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Idle#3" value="326: Спогади спливають… придушені."/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Shaken#0" value="991: Эмоции ускользают."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Shaken#0" value="991: Емоції ускользають."/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/KataphronDestroyer:Victory#0" value="T1: Функция выполнена, следующая цель."/>
+	<entry name="AdeptusMechanicus/KataphronDestroyer:Victory#0" value="T1: Функція виконана, наступна ціль."/>
 	<entry name="AdeptusMechanicus/KataphronDestroyer:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Attack#0" value="Мы всего лишь оружие в деснице Императора."/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Attack#1" value="За честь Квестора Механикуса!"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Attack#2" value="Бойтесь моей поступи!"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Attack#3" value="Я ИМПЕРСКИЙ РЫЦАРЬ!"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#0" value="Ми лише зброя в деснице Імператора."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#1" value="За честь Квестора Механікуса!"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#2" value="Бійтеся моєї ходи!"/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Attack#3" value="Я ІМПЕРСЬКИЙ ЛИЦАР!"/>
 	<entry name="AdeptusMechanicus/KnightCrusader:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Broken#0" value="Этого … не может быть."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Broken#0" value="Цього … не може бути."/>
 	<entry name="AdeptusMechanicus/KnightCrusader:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Hurt#0" value="Лучше смерть, чем бесчестие."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Hurt#0" value="Краще смерть, ніж безчестя."/>
 	<entry name="AdeptusMechanicus/KnightCrusader:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Idle#0" value="Моя госпожа ждет."/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Idle#1" value="Для турниров в моем родном мире."/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Idle#2" value="Знаете, мой дом славится своей скромностью."/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Idle#3" value="Этот железный гигант ждет."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#0" value="Моя госпожа чекає."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#1" value="Для турнірів в моєму рідному світі."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#2" value="Знаєте, мій дім славиться своєю скромністю."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Idle#3" value="Цей залізний гігант чекає."/>
 	<entry name="AdeptusMechanicus/KnightCrusader:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Shaken#0" value="КАК ВЫ СМЕЕТЕ."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Shaken#0" value="ЯК ВИ СМІЄТЕ."/>
 	<entry name="AdeptusMechanicus/KnightCrusader:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/KnightCrusader:Victory#0" value="Не стыдно пасть от моей руки."/>
+	<entry name="AdeptusMechanicus/KnightCrusader:Victory#0" value="Не соромно впасти від моєї руки."/>
 	<entry name="AdeptusMechanicus/KnightCrusader:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#0" value="Очистка, Доминус."/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#1" value="Все еще очищаюсь, Доминус."/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#2" value="Мои когти чисто режут."/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#3" value="От фосфора никуда не деться, дураки."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#0" value="Очищення, Домінус."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#1" value="Все ще очищаюся, Домінус."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#2" value="Мої кігті чисто ріжуть."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Attack#3" value="Від фосфору нікуди не дітися, дурні."/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Broken#0" value="Уже в полете …"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Broken#0" value="Вже в польоті …"/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Hurt#0" value="Наша чистка близка…"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Hurt#0" value="Наше очищення близьке…"/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#0" value="Чистка … надо чистить."/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#1" value="Лимб на конечностях … зуд."/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#2" value="Всегда на крыльях."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#0" value="Очищення … треба чистити."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#1" value="Лімб на кінцівках … свербіж."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Idle#2" value="Завжди на крилах."/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor:IdleCount" value="3"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Shaken#0" value="Грязь … угрожает."/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Shaken#0" value="Бруд … загрожує."/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Victory#0" value="Прах к праху…"/>
+	<entry name="AdeptusMechanicus/PteraxiiSterylizor:Victory#0" value="Прах до праху…"/>
 	<entry name="AdeptusMechanicus/PteraxiiSterylizor:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#0" value="Высвобождение движущей силы, тч."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#1" value="Гальванизация скитариев, даа…"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#2" value="…копье…"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#3" value="Мы не воодушевлены?!"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#0" value="Вивільнення рушійної сили, тч."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#1" value="Гальванізація скітаріїв, так…"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#2" value="…спис…"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Attack#3" value="Ми не воодушевлені?!"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Broken#0" value="Логика подсказывает, что этого не происходит."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Broken#0" value="Логіка підказує, що цього не відбувається."/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Hurt#0" value="Мы … мы этого не планировали."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Hurt#0" value="Ми … ми цього не планували."/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#0" value="О, я просто теряю силу."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#1" value="Нажать на гальваническую ячейку."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#2" value="Перезарядка, недостаток обслуживания."/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#3" value="Чтобы понять Ксеносов…"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#0" value="О, я просто втрачаю силу."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#1" value="Натиснути на гальванічну комірку."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#2" value="Перезарядка, нестача обслуговування."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Idle#3" value="Щоб зрозуміти Ксеносів…"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Shaken#0" value="Защищайте своих магосов, насекомые!"/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Shaken#0" value="Захищайте своїх магосів, комахи!"/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestManipulus:Victory#0" value="Их биоэлектричество … мое."/>
+	<entry name="AdeptusMechanicus/TechPriestManipulus:Victory#0" value="Їх біоелектрика … моя."/>
 	<entry name="AdeptusMechanicus/TechPriestManipulus:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#0" value="Использовать укрытие, продолжать огонь."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#1" value="Ты нужен мне живым, скитарий."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#2" value="Нет инакомыслия, сейчас мы сражаемся."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#3" value="У меня все под контролем!"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#0" value="Використовувати укриття, продовжувати вогонь."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#1" value="Ти потрібен мені живим, скітарій."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#2" value="Немає інакодумства, зараз ми б'ємося."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Attack#3" value="У мене все під контролем!"/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Broken#0" value="Мы доступны…"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Broken#0" value="Ми доступні…"/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Hurt#0" value="Умирающий..? Спасайте магосов!"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Hurt#0" value="Помираючий..? Рятуйте магосів!"/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#0" value="Следуем твоим планам, Магос."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#1" value="Можем ли мы спасти скитариев?"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#2" value="Мы живем, чтобы умереть, Магос."/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#3" value="Сервочереп, я назову тебя Морт."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#0" value="Слідуємо твоїм планам, Магос."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#1" value="Чи можемо ми врятувати скітаріїв?"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#2" value="Ми живемо, щоб померти, Магос."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Idle#3" value="Сервочереп, я назву тебе Морт."/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Shaken#0" value="Издайте эдикт управления!"/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Shaken#0" value="Видайте едикт управління!"/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiMarshal:Victory#0" value="Наши потери были минимальными, Магос."/>
+	<entry name="AdeptusMechanicus/SkitariiMarshal:Victory#0" value="Наші втрати були мінімальними, Магос."/>
 	<entry name="AdeptusMechanicus/SkitariiMarshal:VictoryCount" value="1"/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#0" value="Рад-десант в поле!"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#1" value="Посмотрим, кого Радий убьет быстрее …"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#2" value="Карабины альфа свечения."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#3" value="Нас не остановить."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#1" value="Подивимося, кого Радій вб'є швидше …"/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#2" value="Карабіни альфа свічення."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Attack#3" value="Нас не зупинити."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Broken#0" value="Вместо этого давайте умрем позже."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Broken#0" value="Замість цього давайте помремо пізніше."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Hurt#0" value="Здесь течет радий и кровь."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Hurt#0" value="Тут тече радій і кров."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#0" value="У меня 99 улучшений, но защита от радиации не входит в их число."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#1" value="Я сгораю."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#2" value="Ух … нехорошо."/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#3" value="Я бы тоже не стал находиться рядом с нами."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#0" value="У мене 99 покращень, але захист від радіації не входить до їх числа."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#1" value="Я згораю."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#2" value="Ух … недобре."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Idle#3" value="Я б теж не став перебувати поряд з нами."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Shaken#0" value="Магос, мы умираем за тебя."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Shaken#0" value="Магос, ми помираємо за тебе."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/SkitariiVanguard:Victory#0" value="От них не осталось даже полураспада."/>
+	<entry name="AdeptusMechanicus/SkitariiVanguard:Victory#0" value="Від них не залишилося навіть піврозпаду."/>
 	<entry name="AdeptusMechanicus/SkitariiVanguard:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#0" value="Моё движение, твоя смерть."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#1" value="Пешки, вперед."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#2" value="Я вижу все части."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#3" value="Делая каждый шаг."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#0" value="Мій рух, твоя смерть."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#1" value="Пішаки, вперед."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#2" value="Я бачу всі частини."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Attack#3" value="Роблячи кожен крок."/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Broken#0" value="Нужна оборона … Лужнин?"/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Broken#0" value="Потрібна оборона … Лужнін?"/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Hurt#0" value="Нацелен на короля, умно."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Hurt#0" value="Націлений на короля, розумно."/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#0" value="Ни один цикл не простаивает."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#1" value="Неэффективность становится энтропией."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#2" value="Какая радость от манипуляций."/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#3" value="Да … Я вижу их ходы и противодействую."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#0" value="Жоден цикл не простоює."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#1" value="Неефективність стає ентропією."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#2" value="Яка радість від маніпуляцій."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Idle#3" value="Так … Я бачу їх ходи і протидію."/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Shaken#0" value="Неожиданный гамбит. Замечательно."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Shaken#0" value="Несподіваний гамбіт. Чудово."/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/TechPriestDominus:Victory#0" value="Я планировал эту победу несколько ходов назад. Но сладость остается."/>
+	<entry name="AdeptusMechanicus/TechPriestDominus:Victory#0" value="Я планував цю перемогу кілька ходів тому. Але солодкість залишається."/>
 	<entry name="AdeptusMechanicus/TechPriestDominus:VictoryCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Attack#0" value="Город ждет."/>
-	<entry name="AdeptusMechanicus/Headquarters:Attack#1" value="Их жизни должны забрать мы, а не вы."/>
-	<entry name="AdeptusMechanicus/Headquarters:Attack#2" value="Сервиторы стреляют."/>
+	<entry name="AdeptusMechanicus/Headquarters:Attack#0" value="Місто чекає."/>
+
+	<entry name="AdeptusMechanicus/Headquarters:Attack#1" value="Їхні життя повинні забрати ми, а не ви."/>
+	<entry name="AdeptusMechanicus/Headquarters:Attack#2" value="Сервітори стріляють."/>
 	<entry name="AdeptusMechanicus/Headquarters:Attack#3" value="Кузня в бою."/>
 	<entry name="AdeptusMechanicus/Headquarters:AttackCount" value="4"/>
-	<entry name="AdeptusMechanicus/Headquarters:Broken#0" value="Город падет."/>
+	<entry name="AdeptusMechanicus/Headquarters:Broken#0" value="Місто впаде."/>
 	<entry name="AdeptusMechanicus/Headquarters:BrokenCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Hurt#0" value="Мы несем потери среди гражданского населения. Приемлемые."/>
+	<entry name="AdeptusMechanicus/Headquarters:Hurt#0" value="Ми несемо втрати серед цивільного населення. Прийнятні."/>
 	<entry name="AdeptusMechanicus/Headquarters:HurtCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#0" value="Подавляется бунт."/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#1" value="Клоны отправляются в Колыбели Протосервитора."/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#2" value="Именем Омниссии хаб очистился."/>
-	<entry name="AdeptusMechanicus/Headquarters:Idle#3" value="Производство бионики увеличивается на 0.1%"/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#0" value="Придушується бунт."/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#1" value="Клони відправляються в Колиски Протосервітора."/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#2" value="Іменем Омніссії хаб очистився."/>
+	<entry name="AdeptusMechanicus/Headquarters:Idle#3" value="Виробництво біоніки збільшується на 0.1%"/>
 	<entry name="AdeptusMechanicus/Headquarters:IdleCount" value="4"/>
-	<entry name="AdeptusMechanicus/Headquarters:Shaken#0" value="Массы в ужасе. Войска развернуты."/>
+	<entry name="AdeptusMechanicus/Headquarters:Shaken#0" value="Маси в жаху. Війська розгорнуті."/>
 	<entry name="AdeptusMechanicus/Headquarters:ShakenCount" value="1"/>
-	<entry name="AdeptusMechanicus/Headquarters:Victory#0" value="Устранены внешние угрозы. Обращаем внимание на несогласие."/>
+	<entry name="AdeptusMechanicus/Headquarters:Victory#0" value="Усунені зовнішні загрози. Звертаємо увагу на незгоду."/>
 	<entry name="AdeptusMechanicus/Headquarters:VictoryCount" value="1"/>
 	<entry name="AdeptusMechanicus/ArchaeopterStratoraptor" value="AdeptusMechanicus/ArchaeopterTransvector"/>
 	<entry name="AdeptusMechanicus/OnagerDunecrawler" value="AdeptusMechanicus/IronstriderBallistarius"/>
 	<entry name="AdeptusMechanicus/SkorpiusDisintegrator" value="AdeptusMechanicus/IronstriderBallistarius"/>
 	<entry name="AdeptusMechanicus/SerberysSulphurhound" value="AdeptusMechanicus/SkitariiVanguard"/>
-	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarines#0" value="Наблюдаем Космодесантников, командир. Каналы связи открыты."/>
+	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarines#0" value="Спостерігаємо Космодесантників, командире. Канали зв'язку відкриті."/>
 	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Замечен Лорд-комиссар. Сейчас подойдём к нему поближе."/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Помічений Лорд-комісар. Зараз підійдемо до нього ближче."/>
 	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/TankCommander#0" value="Сэр. Рад видеть офицера, который ценит ценность брони, сэр!"/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/TankCommander#0" value="Сер. Радий бачити офіцера, який цінує цінність броні, сер!"/>
 	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/TankCommanderCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Artefact#0" value="Наблюдаем структуру Ксеноса."/>
+	<entry name="AstraMilitarum/Baneblade:Artefact#0" value="Спостерігаємо структуру Ксеноса."/>
 	<entry name="AstraMilitarum/Baneblade:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Attack#0" value="Снаряд готов."/>
-	<entry name="AstraMilitarum/Baneblade:Attack#1" value="Цель захвачена."/>
-	<entry name="AstraMilitarum/Baneblade:Attack#2" value="Огонь из ствола 1-11, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:Attack#0" value="Снаряд готовий."/>
+	<entry name="AstraMilitarum/Baneblade:Attack#1" value="Ціль захоплена."/>
+	<entry name="AstraMilitarum/Baneblade:Attack#2" value="Вогонь зі ствола 1-11, сер."/>
 	<entry name="AstraMilitarum/Baneblade:AttackCount" value="3"/>
-	<entry name="AstraMilitarum/Baneblade:Broken#0" value="Включаем заднюю передачу, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:Broken#0" value="Вмикаємо задню передачу, сер."/>
 	<entry name="AstraMilitarum/Baneblade:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Cover#0" value="Не знаю как, но танк в укрытии, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:Cover#0" value="Не знаю як, але танк в укритті, сер."/>
 	<entry name="AstraMilitarum/Baneblade:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:EnemyFaction:AstraMilitarum#0" value="Наблюдаем предателей, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:AstraMilitarum#0" value="Спостерігаємо зрадників, сер."/>
 	<entry name="AstraMilitarum/Baneblade:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Necrons#0" value="Наблюдаем Ксеносов, сэр. Готовимся показать им, что такое настоящий металлический монстр."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Necrons#0" value="Спостерігаємо Ксеносів, сер. Готуємося показати їм, що таке справжній металевий монстр."/>
 	<entry name="AstraMilitarum/Baneblade:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Orks#0" value="Зеленокожие в этом районе, сэр. Они не смогут сделать из нас Череподробилку!"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Orks#0" value="Зеленошкурі в цьому районі, сер. Вони не зможуть зробити з нас Черепокрушку!"/>
 	<entry name="AstraMilitarum/Baneblade:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:EnemyFaction:SpaceMarines#0" value="Враги из Адептус Астартес обнаружены. Никаких Разящих клинков не видно."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:SpaceMarines#0" value="Вороги з Адептус Астартес виявлені. Жодних Разючих клинків не видно."/>
 	<entry name="AstraMilitarum/Baneblade:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:EnemyUnit:Neutral/Enslaver#0" value="Сэр, рекомендуем быстрое отступление. Мы не можем гарантировать, что наша техника не будет подвергнута риску."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyUnit:Neutral/Enslaver#0" value="Сер, рекомендуємо швидкий відступ. Ми не можемо гарантувати, що наша техніка не буде підданá ризику."/>
 	<entry name="AstraMilitarum/Baneblade:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Hurt#0" value="Мы получили серьёзный урон, сэр. Советуем вернуться на Марс для ремонта."/>
+	<entry name="AstraMilitarum/Baneblade:Hurt#0" value="Ми отримали серйозну шкоду, сер. Радимо повернутися на Марс для ремонту."/>
 	<entry name="AstraMilitarum/Baneblade:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Idle#0" value="Работаем над траками, сэр"/>
-	<entry name="AstraMilitarum/Baneblade:Idle#1" value="Проверка всех одиннадцати стволов, сэр."/>
-	<entry name="AstraMilitarum/Baneblade:Idle#2" value="Враг слаб, сэр. Мы поможем им потерпеть поражение."/>
-	<entry name="AstraMilitarum/Baneblade:Idle#3" value="Подсчет заклепок, сэр."/>
-	<entry name="AstraMilitarum/Baneblade:Idle#4" value="Когда я вырасту, я хочу быть Адским молотом. Сэр."/>
-	<entry name="AstraMilitarum/Baneblade:Idle#5" value="Вы слышали, что Вэнс Штаббс потерял сотню Гибельных клинков, сэр? Несколько небрежно с его стороны."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#0" value="Працюємо над траками, сер"/>
+	<entry name="AstraMilitarum/Baneblade:Idle#1" value="Перевірка всіх одинадцяти стволів, сер."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#2" value="Ворог слабкий, сер. Ми допоможемо їм зазнати поразки."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#3" value="Підрахунок заклепок, сер."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#4" value="Коли я виросту, я хочу бути Пекельним молотом. Сер."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#5" value="Ви чули, що Венс Штаббс втратив сотню Згубних клинків, сер? Трохи недбало з його боку."/>
 	<entry name="AstraMilitarum/Baneblade:IdleCount" value="6"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory0#0" value="Готов вернуть нам Гладиуса Прайма, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory0#0" value="Готовий повернути нам Гладіус Прайма, сер."/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory0Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory1#0" value="Перегруппировка гвардии, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory1#0" value="Перегрупування гвардії, сер."/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory1Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory2#0" value="Сэр, все будут благодарны, если Техножрец не будет смазывать наши спонсоны."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory2#0" value="Сер, всі будуть вдячні, якщо Техножрець не буде змащувати наші спонсони."/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory2Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory3#0" value="Мы оставим подземную разведку пехоте. Сэр."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory3#0" value="Ми залишимо підземну розвідку піхоті. Сер."/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory3Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory4#0" value="Мы можем сдержать Ксенос, не проблема, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory4#0" value="Ми можемо стримати Ксенос, не проблема, сер."/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory4Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:QuestStory5#0" value="Кастеляны! Нам понадобятся все одиннадцать стволов, сэр!"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory5#0" value="Кастеляни! Нам знадобляться всі одинадцять стволів, сер!"/>
 	<entry name="AstraMilitarum/Baneblade:QuestStory5Count" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Shaken#0" value="Мы не отступаем, сэр! Не уверен, но эта штука на самом деле сама идет назад."/>
+	<entry name="AstraMilitarum/Baneblade:Shaken#0" value="Ми не відступаємо, сер! Не впевнений, але ця штука насправді сама йде назад."/>
 	<entry name="AstraMilitarum/Baneblade:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:Victory#0" value="Цель ликвидирована, сэр. Перезарядка всех стволов."/>
+	<entry name="AstraMilitarum/Baneblade:Victory#0" value="Ціль ліквідована, сер. Перезарядка всіх стволів."/>
 	<entry name="AstraMilitarum/Baneblade:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Baneblade:WireWeed#0" value="Сэр, советуем вам переместить машину; Экипаж не может справиться с этой проволокой."/>
+	<entry name="AstraMilitarum/Baneblade:WireWeed#0" value="Сер, радимо вам перемістити машину; Екіпаж не може впоратися з цим дротом."/>
 	<entry name="AstraMilitarum/Baneblade:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarines#0" value="Наблюдаем союзных Астартес, хвала Императору!"/>
+	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarines#0" value="Спостерігаємо союзних Астартес, хвала Імператору!"/>
 	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Наблюдаем Комиссара. Рад, что он на передовой … и далеко от нас."/>
+	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Спостерігаємо Комісара. Радий, що він на передовій … і далеко від нас."/>
 	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:Artefact#0" value="Снаряды даже не царапают эту штуку. Из чего это сделано?"/>
-	<entry name="AstraMilitarum/Basilisk:Artefact#1" value="Мы будем подвергнуты очистке только за то, что видели это."/>
+	<entry name="AstraMilitarum/Basilisk:Artefact#0" value="Снаряди навіть не подряпують цю штуку. З чого це зроблено?"/>
+	<entry name="AstraMilitarum/Basilisk:Artefact#1" value="Ми будемо піддані очищенню тільки за те, що бачили це."/>
 	<entry name="AstraMilitarum/Basilisk:ArtefactCount" value="2"/>
-	<entry name="AstraMilitarum/Basilisk:Attack#0" value="Координаты получены, решение принято. Огонь."/>
-	<entry name="AstraMilitarum/Basilisk:Attack#1" value="Снаряды уже в пути."/>
-	<entry name="AstraMilitarum/Basilisk:Attack#2" value="Корректировщик на поле боя."/>
-	<entry name="AstraMilitarum/Basilisk:Attack#3" value="Цель накрыта. Рад, что мы вернулись!"/>
+	<entry name="AstraMilitarum/Basilisk:Attack#0" value="Координати отримані, рішення прийняте. Вогонь."/>
+	<entry name="AstraMilitarum/Basilisk:Attack#1" value="Снаряди вже в дорозі."/>
+	<entry name="AstraMilitarum/Basilisk:Attack#2" value="Коректувальник на полі бою."/>
+	<entry name="AstraMilitarum/Basilisk:Attack#3" value="Ціль накрита. Радий, що ми повернулися!"/>
 	<entry name="AstraMilitarum/Basilisk:AttackCount" value="4"/>
-	<entry name="AstraMilitarum/Basilisk:Broken#0" value="Бросай пушку и беги!"/>
+	<entry name="AstraMilitarum/Basilisk:Broken#0" value="Кидай гармату і біжи!"/>
 	<entry name="AstraMilitarum/Basilisk:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:Cover#0" value="Идеальное расположение артиллерии. Они не видят нас."/>
+	<entry name="AstraMilitarum/Basilisk:Cover#0" value="Ідеальне розташування артилерії. Вони не бачать нас."/>
 	<entry name="AstraMilitarum/Basilisk:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:EnemyFaction:AstraMilitarum#0" value="У нас всегда есть подарок для предателей—132 мм ярости Императора."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:AstraMilitarum#0" value="У нас завжди є подарунок для зрадників—132 мм лютості Імператора."/>
 	<entry name="AstraMilitarum/Basilisk:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Necrons#0" value="Жестяные человечки? 15 км идеальное расстояние, чтобы вступить в бой с ними."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Necrons#0" value="Бляшані чоловічки? 15 км ідеальна відстань, щоб вступити в бій з ними."/>
 	<entry name="AstraMilitarum/Basilisk:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Orks#0" value="О, зеленокожие. Для этого и была построена эта пушка."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Orks#0" value="О, зеленошкурі. Для цього і була побудована ця гармата."/>
 	<entry name="AstraMilitarum/Basilisk:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:EnemyFaction:SpaceMarines#0" value="Отступники-Космодесантники? Интересно, их нимбы защищают их от наших подарочков?"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:SpaceMarines#0" value="Відступники-Космодесантники? Цікаво, їхні німби захищають їх від наших подарунків?"/>
 	<entry name="AstraMilitarum/Basilisk:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/Enslaver#0" value="Что это за ШТУКИ? Люди, держимся от них на расстоянии."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/Enslaver#0" value="Що це за ШТУКИ? Люди, тримаємося від них на відстані."/>
 	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:Hurt#0" value="Попадание в отсек экипажа … здесь месиво."/>
+	<entry name="AstraMilitarum/Basilisk:Hurt#0" value="Попадання в відсік екіпажу … тут каша."/>
 	<entry name="AstraMilitarum/Basilisk:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:Idle#0" value="Вы слышали о Святом Василиске? Его канонизировали. Понимаешь?"/>
-	<entry name="AstraMilitarum/Basilisk:Idle#1" value="Не посылайте Мантикору делать работу Василиска."/>
-	<entry name="AstraMilitarum/Basilisk:Idle#2" value="Мне жаль бедных ворчунов на передовой … но не настолько, чтобы присоединиться к ним."/>
-	<entry name="AstraMilitarum/Basilisk:Idle#3" value="Просто скажи нам, когда появится то, во что стрелять."/>
-	<entry name="AstraMilitarum/Basilisk:Idle#4" value="Затишье на войне … и это происходит неоднократно."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#0" value="Ви чули про Святого Василіска? Його канонізували. Розумієте?"/>
+	<entry name="AstraMilitarum/Basilisk:Idle#1" value="Не посилайте Мантікору робити роботу Василіска."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#2" value="Мені шкода бідних ворчунів на передовій … але не настільки, щоб приєднатися до них."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#3" value="Просто скажіть нам, коли з'явиться те, в що стріляти."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#4" value="Затишшя на війні … і це відбувається неодноразово."/>
 	<entry name="AstraMilitarum/Basilisk:IdleCount" value="5"/>
-	<entry name="AstraMilitarum/Basilisk:Shaken#0" value="Кто-то на самом деле стреляет … в нас?"/>
+	<entry name="AstraMilitarum/Basilisk:Shaken#0" value="Хтось насправді стріляє … в нас?"/>
 	<entry name="AstraMilitarum/Basilisk:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:Victory#0" value="Видел , как превращаются враги в кратеры на десять тысячелетий!"/>
+	<entry name="AstraMilitarum/Basilisk:Victory#0" value="Бачив, як перетворюються вороги в кратери на десять тисячоліть!"/>
 	<entry name="AstraMilitarum/Basilisk:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Basilisk:WireWeed#0" value="Биопроволока? Я имею в виду, что эти огневые позиции хуже, чем внутри Великого Разлома …"/>
+	<entry name="AstraMilitarum/Basilisk:WireWeed#0" value="Біопровід? Я маю на увазі, що ці вогневі позиції гірші, ніж всередині Великого Розлому …"/>
 	<entry name="AstraMilitarum/Basilisk:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarines#0" value="Босс, Космодесант"/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarines#0" value="Босе, Космодесант"/>
 	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Быкрин лояльный"/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Бикрин лояльний"/>
 	<entry name="AstraMilitarum/Bullgryn:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Artefact#0" value="Большая вещь?"/>
+	<entry name="AstraMilitarum/Bullgryn:Artefact#0" value="Велика річ?"/>
 	<entry name="AstraMilitarum/Bullgryn:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Attack#0" value="Быкрины сражаются, мой босс."/>
+	<entry name="AstraMilitarum/Bullgryn:Attack#0" value="Бикрини б'ються, мій босе."/>
 	<entry name="AstraMilitarum/Bullgryn:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Broken#0" value="Огрины не такие крутые."/>
+	<entry name="AstraMilitarum/Bullgryn:Broken#0" value="Огрини не такі круті."/>
 	<entry name="AstraMilitarum/Bullgryn:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Cover#0" value="Скроемся в кустах."/>
+	<entry name="AstraMilitarum/Bullgryn:Cover#0" value="Сховаємося в кущах."/>
 	<entry name="AstraMilitarum/Bullgryn:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:AstraMilitarum#0" value="Подожди, так ты сражаешься за Императора? За нас или за них?"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:AstraMilitarum#0" value="Зачекай, то ти б'єшся за Імператора? За нас чи за них?"/>
+
 	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Necrons#0" value="Не могу жевать жесть. Черт."/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Necrons#0" value="Не можу жувати залізо. Чорт."/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Orks#0" value="Орки. Жесткие, хорошо выглядят, умные. Как мы."/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Orks#0" value="Орки. Жорсткі, добре виглядають, розумні. Як ми."/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarines#0" value="Дети Императора? Мы должны бороться с ними?!"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarines#0" value="Діти Імператора? Ми повинні боротися з ними?!"/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/Enslaver#0" value="Нет, я не понимаю, кто это такие."/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/Enslaver#0" value="Ні, я не розумію, хто це такі."/>
 	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/EnslaverCount" value="1"/>
 	<entry name="AstraMilitarum/Bullgryn:Hurt#0" value="Ух."/>
 	<entry name="AstraMilitarum/Bullgryn:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Idle#0" value="Наши костяные головы… они умны."/>
-	<entry name="AstraMilitarum/Bullgryn:Idle#1" value="Один Огрин положил мертвого Орка в копилку. Ух … два! Два Огрина …"/>
-	<entry name="AstraMilitarum/Bullgryn:Idle#2" value="У нас заострённые дубины, сэр"/>
-	<entry name="AstraMilitarum/Bullgryn:Idle#3" value="Мы делаем что нам сказали. А ты не сказал нам ничего."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#0" value="Наші кісткові голови… вони розумні."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#1" value="Один Огрин поклав мертвого Орка в скарбничку. Ух … два! Два Огрина …"/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#2" value="У нас загострені дубинки, сер"/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#3" value="Ми робимо що нам сказали. А ти не сказав нам нічого."/>
 	<entry name="AstraMilitarum/Bullgryn:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/Bullgryn:Shaken#0" value="Подожди … а в какую сторону мы пойдем?"/>
+	<entry name="AstraMilitarum/Bullgryn:Shaken#0" value="Зачекай … а в який бік ми підемо?"/>
 	<entry name="AstraMilitarum/Bullgryn:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Bullgryn:Victory#0" value="Что? Мы победили?"/>
+	<entry name="AstraMilitarum/Bullgryn:Victory#0" value="Що? Ми перемогли?"/>
 	<entry name="AstraMilitarum/Bullgryn:VictoryCount" value="1"/>
 	<entry name="AstraMilitarum/Bullgryn:WireWeed#0" value="Ой, моя нога!"/>
 	<entry name="AstraMilitarum/Bullgryn:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:AlliedFaction:SpaceMarines#0" value="Слава Императору, Астартес здесь!"/>
+	<entry name="AstraMilitarum/Guardsman:AlliedFaction:SpaceMarines#0" value="Слава Імператору, Астартес тут!"/>
 	<entry name="AstraMilitarum/Guardsman:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Подтянуться, вобрать животы, здесь Лорд-комиссар."/>
+	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Підтягнутися, втягнути животи, тут Лорд-комісар."/>
 	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Artefact#0" value="Это было сделано … Ксеносом?"/>
+	<entry name="AstraMilitarum/Guardsman:Artefact#0" value="Це було зроблено … Ксеносом?"/>
 	<entry name="AstraMilitarum/Guardsman:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#0" value="Кто-нибудь может сказать куда мы стреляем?"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#1" value="Враги впереди, Комиссар сзади …"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#2" value="Отдадим все, что у нас есть!"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#3" value="Я хотел бы, чтобы символ веры был здесь …"/>
-	<entry name="AstraMilitarum/Guardsman:Attack#4" value="Зальём их лаз-огнём, мы можем это сделать."/>
+	<entry name="AstraMilitarum/Guardsman:Attack#0" value="Хто-небудь може сказати куди ми стріляємо?"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#1" value="Вороги попереду, Комісар ззаду …"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#2" value="Віддамо все, що у нас є!"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#3" value="Я хотів би, щоб символ віри був тут …"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#4" value="Зальємо їх лаз-вогнем, ми можемо це зробити."/>
 	<entry name="AstraMilitarum/Guardsman:AttackCount" value="5"/>
-	<entry name="AstraMilitarum/Guardsman:Broken#0" value="Я не подписывался на это!"/>
-	<entry name="AstraMilitarum/Guardsman:Broken#1" value="Ребята, бежим, и будем надееться, что Комиссар этого не увидит!"/>
-	<entry name="AstraMilitarum/Guardsman:Broken#2" value="Они истребляют нас! А мы не можем убить их!"/>
-	<entry name="AstraMilitarum/Guardsman:Broken#3" value="Это кровавый Мир смерти!"/>
-	<entry name="AstraMilitarum/Guardsman:Broken#4" value="Где подкрепление? Гдеее?"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#0" value="Я не підписувався на це!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#1" value="Хлопці, біжимо, і будемо сподіватися, що Комісар цього не побачить!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#2" value="Вони винищують нас! А ми не можемо вбити їх!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#3" value="Це кривавий Світ смерті!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#4" value="Де підкріплення? Деее?"/>
 	<entry name="AstraMilitarum/Guardsman:BrokenCount" value="5"/>
-	<entry name="AstraMilitarum/Guardsman:Cover#0" value="Вернемся в окопы, слава Императору."/>
+	<entry name="AstraMilitarum/Guardsman:Cover#0" value="Повернемося в окопи, слава Імператору."/>
 	<entry name="AstraMilitarum/Guardsman:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Enslaver#0" value="Поработители? Ох, храни нас Император."/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Enslaver#0" value="Поневолювачі? Ох, бережи нас Імператор."/>
 	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Psychneuein#0" value="Большие насекомые с Просперо—держите их подальше от псайкеров!"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Psychneuein#0" value="Великі комахи з Просперо—тримайте їх подалі від псайкерів!"/>
 	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:EnemyUnitNeutral/KhorneLordOfSkulls#0" value="Хаос! Здесь?"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnitNeutral/KhorneLordOfSkulls#0" value="Хаос! Тут?"/>
 	<entry name="AstraMilitarum/Guardsman:EnemyUnitNeutral/KhorneLordOfSkullsCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Hurt#0" value="Нас накрыли, сэр."/>
+	<entry name="AstraMilitarum/Guardsman:Hurt#0" value="Нас накрили, сер."/>
 	<entry name="AstraMilitarum/Guardsman:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#0" value="На Золотом Троне…!"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#1" value="За Жиллимана и Императора!"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#2" value="Как сильно, сэр?"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#3" value="Тишина перед битвой—не к добру."/>
-	<entry name="AstraMilitarum/Guardsman:Idle#4" value="Мы просто играем, сэр, Комиссар говорит, что это хорошо для морального духа."/>
-	<entry name="AstraMilitarum/Guardsman:Idle#5" value="Жизнь в гвардии, сэр. Ужасно тяжело."/>
-	<entry name="AstraMilitarum/Guardsman:Idle#6" value="Всё понятно, сэр!"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#7" value="Сэр, да сэр!"/>
-	<entry name="AstraMilitarum/Guardsman:Idle#8" value="Берегись, Комиссар идет!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#0" value="На Золотому Троні…!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#1" value="За Жилімана і Імператора!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#2" value="Як сильно, сер?"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#3" value="Тиша перед битвою—не к добру."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#4" value="Ми просто граємо, сер, Комісар каже, що це добре для морального духу."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#5" value="Життя в гвардії, сер. Жахливо важко."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#6" value="Все зрозуміло, сер!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#7" value="Сер, так сер!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#8" value="Бережись, Комісар іде!"/>
 	<entry name="AstraMilitarum/Guardsman:IdleCount" value="9"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory0#0" value="Я до сих пор не могу поверить, что мы выжили. Так много…"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory0#0" value="Я досі не можу повірити, що ми вижили. Так багато…"/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory0Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory1#0" value="Собираем банду вместе, сэр."/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory1#0" value="Збираємо банду разом, сер."/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory1Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory2#0" value="Новый город? Мы уверены … нет, сэр, мы не подвергаем сомнению ваши приказы, сэр!"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory2#0" value="Нове місто? Ми впевнені … ні, сер, ми не ставимо під сумнів ваші наказі, сер!"/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory2Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory3#0" value="От этих штормов у меня болит голова—неужели мы здесь навечно?"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory3#0" value="Від цих штормів у мене болить голова—невже ми тут назавжди?"/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory3Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory4#0" value="Они внутри города! Возвращаемся!"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory4#0" value="Вони всередині міста! Повертаємося!"/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory4Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:QuestStory5#0" value="Говорила мне мама: «Никогда не доверяй Техножрецу». Как моя мама была права."/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory5#0" value="Казала мені мама: &quot;Ніколи не довіряй Техножерцю&quot;. Як моя мама була права."/>
 	<entry name="AstraMilitarum/Guardsman:QuestStory5Count" value="1"/>
-	<entry name="AstraMilitarum/Guardsman:Shaken#0" value="Мы можем помолиться? О, Император, о Жиллиман, защитите нас."/>
-	<entry name="AstraMilitarum/Guardsman:Shaken#1" value="Командир, мы отступаем."/>
-	<entry name="AstraMilitarum/Guardsman:Shaken#2" value="Бодрее, ребята, бодрее"/>
-	<entry name="AstraMilitarum/Guardsman:Shaken#3" value="Если мы останемся, враг застрелит нас. Если мы побежим, Комиссар пристрелит нас!"/>
-	<entry name="AstraMilitarum/Guardsman:Shaken#4" value="Дайте нам более лучшее оружие, пожалуйста?"/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#0" value="Ми можемо помолитися? О, Імператор, о Жилліман, захистіть нас."/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#1" value="Командире, ми відступаємо."/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#2" value="Бадьоріше, хлопці, бадьоріше"/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#3" value="Якщо ми залишимося, ворог застрелить нас. Якщо ми побіжимо, Комісар пристрелить нас!"/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#4" value="Дайте нам кращу зброю, будь ласка?"/>
 	<entry name="AstraMilitarum/Guardsman:ShakenCount" value="5"/>
-	<entry name="AstraMilitarum/Guardsman:Victory#0" value="Комиссар, сэр, разрешите отпраздновать?"/>
-	<entry name="AstraMilitarum/Guardsman:Victory#1" value="Ха! Я чувствую, что мы повергли Титана с помощью светового жезла."/>
-	<entry name="AstraMilitarum/Guardsman:Victory#2" value="За Кадию и Символ веры…"/>
-	<entry name="AstraMilitarum/Guardsman:Victory#3" value="Мы победили ..? Мы победили!"/>
-	<entry name="AstraMilitarum/Guardsman:Victory#4" value="Отлично, право Наставление! Эти ксеносы легкие враги!"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#0" value="Комісар, сер, дозвольте відсвяткувати?"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#1" value="Ха! Я відчуваю, що ми повергли Титана за допомогою світлового жезла."/>
+	<entry name="AstraMilitarum/Guardsman:Victory#2" value="За Кадію і Символ віри…"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#3" value="Ми перемогли ..? Ми перемогли!"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#4" value="Відмінно, право Настанова! Ці ксеноси легкі вороги!"/>
 	<entry name="AstraMilitarum/Guardsman:VictoryCount" value="5"/>
-	<entry name="AstraMilitarum/Guardsman:WireWeed#0" value="Сэр, проволока, она живая!"/>
+	<entry name="AstraMilitarum/Guardsman:WireWeed#0" value="Сер, дріт, він живий!"/>
 	<entry name="AstraMilitarum/Guardsman:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:AlliedFaction:SpaceMarines#0" value="Командир, из штаба сообщают о приближении союзных Космических десантников."/>
+	<entry name="AstraMilitarum/Headquarters:AlliedFaction:SpaceMarines#0" value="Командире, зі штабу повідомляють про наближення союзних Космічних десантників."/>
 	<entry name="AstraMilitarum/Headquarters:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Рад видеть вас на поле битвы, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Радий бачити вас на полі битви, сер."/>
 	<entry name="AstraMilitarum/Headquarters:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Artefact#0" value="Артефакт ксеносов в опасной близости от города, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:Artefact#0" value="Артефакт ксеносів в небезпечній близькості від міста, сер."/>
 	<entry name="AstraMilitarum/Headquarters:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Attack#0" value="Держим территорию под контролем."/>
+	<entry name="AstraMilitarum/Headquarters:Attack#0" value="Тримаємо територію під контролем."/>
 	<entry name="AstraMilitarum/Headquarters:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Broken#0" value="Выполняем последние приказы."/>
+	<entry name="AstraMilitarum/Headquarters:Broken#0" value="Виконуємо останні наказі."/>
 	<entry name="AstraMilitarum/Headquarters:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Cover#0" value="Как, … этот город … укрытие?"/>
+	<entry name="AstraMilitarum/Headquarters:Cover#0" value="Як, … це місто … укриття?"/>
 	<entry name="AstraMilitarum/Headquarters:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarum#0" value="Предатели приближаются к городу, сэр!"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarum#0" value="Зрадники наближаються до міста, сер!"/>
 	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Necrons#0" value="Войска Некронов на подходе."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Necrons#0" value="Війська Некронів на підході."/>
 	<entry name="AstraMilitarum/Headquarters:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Orks#0" value="Зеленокожие, к сожалению, близко, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Orks#0" value="Зеленошкурі, на жаль, близько, сер."/>
 	<entry name="AstraMilitarum/Headquarters:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarines#0" value="Космодесантники приближаются. Они уничтожат город, если проникнут за стены."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarines#0" value="Космодесантники наближаються. Вони знищать місто, якщо проникнуть за стіни."/>
 	<entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/Enslaver#0" value="ВНИМАНИЕ: ОБНАРУЖЕНЫ ОЧЕНЬ ОПАСНЫЕ КСЕНОСЫ."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/Enslaver#0" value="УВАГА: ВИЯВЛЕНІ ДУЖЕ НЕБЕЗПЕЧНІ КСЕНОСИ."/>
 	<entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Hurt#0" value="Нанесен урон инфраструктуре!"/>
+	<entry name="AstraMilitarum/Headquarters:Hurt#0" value="Завдано шкоди інфраструктурі!"/>
 	<entry name="AstraMilitarum/Headquarters:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Idle#0" value="Повысить бдительность"/>
-	<entry name="AstraMilitarum/Headquarters:Idle#1" value="Постоянное внимание."/>
-	<entry name="AstraMilitarum/Headquarters:Idle#2" value="Кто играет в Таро? Убрать это быстро."/>
-	<entry name="AstraMilitarum/Headquarters:Idle#3" value="Все тихо, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#0" value="Підвищити пильність"/>
+	<entry name="AstraMilitarum/Headquarters:Idle#1" value="Постійна увага."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#2" value="Хто грає в Таро? Прибрати це швидко."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#3" value="Все тихо, сер."/>
 	<entry name="AstraMilitarum/Headquarters:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/Headquarters:Shaken#0" value="Занимаем оборонительные позиции, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:Shaken#0" value="Займаємо оборонні позиції, сер."/>
 	<entry name="AstraMilitarum/Headquarters:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:Victory#0" value="Город в безопасности, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:Victory#0" value="Місто в безпеці, сер."/>
 	<entry name="AstraMilitarum/Headquarters:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Headquarters:WireWeed#0" value="Было ли строительство этого города на биопроволоке такой прекрасной идеей?"/>
+	<entry name="AstraMilitarum/Headquarters:WireWeed#0" value="Чи було будівництво цього міста на біодроті такою прекрасною ідеєю?"/>
 	<entry name="AstraMilitarum/Headquarters:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedFaction:SpaceMarines#0" value="Хорошо, что Астартес появились."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedFaction:SpaceMarines#0" value="Добре, що Астартес з'явилися."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Где Комиссары получают свой обед? В Комиссариате. Эх."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Де Комісари отримують свій обід? В Комісаріаті. Ех."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Artefact#0" value="Если вы не можете оценить эту штуку, то мне это не интересно."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Artefact#0" value="Якщо ви не можете оцінити цю штуку, то мені це не цікаво."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#0" value="Кто-нибудь может сказать—цель все еще там?"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#1" value="Огонь, отдача!"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#2" value="Огонь из тяжёлого оружия!"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#3" value="Давайте взломаем их оборону!"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#4" value="Когда лазгпушки не режут их …"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#0" value="Хто-небудь може сказати—ціль ще там?"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#1" value="Вогонь, віддача!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#2" value="Вогонь з важкої зброї!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#3" value="Давайте зламаємо їх оборону!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#4" value="Коли лазгармати не ріжуть їх …"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:AttackCount" value="5"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Broken#0" value="Отступаем, гончие, отступаем!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Broken#0" value="Відступаємо, собаки, відступаємо!"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Cover#0" value="Как говорят на войне: прикрывай свои минометы, и они прикроют тебя."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Cover#0" value="Як кажуть на війні: прикривай свої міномети, і вони прикриють тебе."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarum#0" value="Чертовы предатели. Сожжём их!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarum#0" value="Прокляті зрадники. Спалимо їх!"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Necrons#0" value="Давайте отделим их металл от них."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Necrons#0" value="Давайте відділимо їх метал від них."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Orks#0" value="Стрельба по зеленокожим—пустая трата патронов."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Orks#0" value="Стрільба по зеленошкурих—марна трата патронів."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:SpaceMarines#0" value="Если вы стреляете в Космического десантника-убедитесь, что вы попали."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:SpaceMarines#0" value="Якщо ви стріляєте в Космічного десантника—переконайтеся, що ви влучили."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyUnit:Neutral/Enslaver#0" value="Загоним эти исчадия ада обратно в Варп!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyUnit:Neutral/Enslaver#0" value="Заженемо цих ісчадь пекла назад у Варп!"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Hurt#0" value="У меня нет времени, чтобы истекать кровью."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Hurt#0" value="У мене немає часу, щоб стікати кров'ю."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#0" value="Вы знаете, сколько времени нужно, чтобы починить контакты на лазпушках?"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#0" value="Ви знаєте, скільки часу потрібно, щоб полагодити контакти на лазгарматах?"/>
+	
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#1" value="Ксенос может прийти к нам."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#2" value="Там нас что-то ждет …"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#3" value="Мы как танк, который может поразить цель."/>
