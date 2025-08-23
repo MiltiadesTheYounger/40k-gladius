@@ -478,225 +478,227 @@
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:HurtCount" value="1"/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#0" value="Ви знаєте, скільки часу потрібно, щоб полагодити контакти на лазгарматах?"/>
 	
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#1" value="Ксенос может прийти к нам."/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#2" value="Там нас что-то ждет …"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#3" value="Мы как танк, который может поразить цель."/>
+<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#1" value="Ксенос може прийти до нас."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#2" value="Там на нас щось чекає …"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#3" value="Ми як танк, який може вразити ціль."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Shaken#0" value="Мы не должны быть под огнем, сэр."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Shaken#0" value="Ми не повинні бути під вогнем, сер."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:Victory#0" value="Они, конечно, мертвы."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Victory#0" value="Вони, звичайно, мертві."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/HeavyWeaponsSquad:WireWeed#0" value="Грязные ловушки ксеносов."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:WireWeed#0" value="Брудні пастки ксеносів."/>
 	<entry name="AstraMilitarum/HeavyWeaponsSquad:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:AlliedFaction:SpaceMarines#0" value="Ангелы с нами."/>
+	<entry name="AstraMilitarum/Hydra:AlliedFaction:SpaceMarines#0" value="Ангели з нами."/>
 	<entry name="AstraMilitarum/Hydra:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Полезно, чтобы этот человек держал нас в руках."/>
+	<entry name="AstraMilitarum/Hydra:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Корисно, щоб ця людина тримала нас у руках."/>
 	<entry name="AstraMilitarum/Hydra:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Artefact#0" value="Что-то чужое."/>
+	<entry name="AstraMilitarum/Hydra:Artefact#0" value="Щось чуже."/>
 	<entry name="AstraMilitarum/Hydra:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Attack#0" value="Очистим небо."/>
+	<entry name="AstraMilitarum/Hydra:Attack#0" value="Очистимо небо."/>
 	<entry name="AstraMilitarum/Hydra:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Broken#0" value="Отступаем на более возвышенное место."/>
+	<entry name="AstraMilitarum/Hydra:Broken#0" value="Відступаємо на більш підвищене місце."/>
 	<entry name="AstraMilitarum/Hydra:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Cover#0" value="Идеальное прикрытие для наблюдения за небом."/>
+	<entry name="AstraMilitarum/Hydra:Cover#0" value="Ідеальне прикриття для спостереження за небом."/>
 	<entry name="AstraMilitarum/Hydra:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:EnemyFaction:AstraMilitarum#0" value="Имперцы, но с затуманенными мозгами."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:AstraMilitarum#0" value="Імперці, але з затуманеними мізками."/>
 	<entry name="AstraMilitarum/Hydra:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:EnemyFaction:Necrons#0" value="Такие странные летательные аппараты, и такие смертоносные."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:Necrons#0" value="Такі дивні літальні апарати, і такі смертоносні."/>
 	<entry name="AstraMilitarum/Hydra:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:EnemyFaction:Orks#0" value="Летуны зеленокожих грубые, но эффективные."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:Orks#0" value="Літуни зеленошкірих грубі, але ефективні."/>
 	<entry name="AstraMilitarum/Hydra:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:EnemyFaction:SpaceMarines#0" value="Могу ли я сбить Грозовых птичек? Давай попробую!"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:SpaceMarines#0" value="Чи можу я збити Грозових пташок? Давай спробую!"/>
 	<entry name="AstraMilitarum/Hydra:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:EnemyUnit:Neutral/Enslaver#0" value="Парящий не летун—инопланетные ужасы."/>
+	<entry name="AstraMilitarum/Hydra:EnemyUnit:Neutral/Enslaver#0" value="Парящий не літун—інопланетні жахи."/>
 	<entry name="AstraMilitarum/Hydra:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Hurt#0" value="Мы следим за небесами, вы должны следить за нами."/>
+	<entry name="AstraMilitarum/Hydra:Hurt#0" value="Ми стежимо за небесами, ви повинні стежити за нами."/>
 	<entry name="AstraMilitarum/Hydra:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Idle#0" value="Наблюдаем за облаками, сэр."/>
-	<entry name="AstraMilitarum/Hydra:Idle#1" value="Джагатайский нимб, рогатые облака, цирросангвиниус …"/>
-	<entry name="AstraMilitarum/Hydra:Idle#2" value="Звезды здесь потрясающие."/>
-	<entry name="AstraMilitarum/Hydra:Idle#3" value="На этой планете удивительные закаты, Сэр."/>
+	<entry name="AstraMilitarum/Hydra:Idle#0" value="Спостерігаємо за хмарами, сер."/>
+	<entry name="AstraMilitarum/Hydra:Idle#1" value="Джагатайський німб, рогаті хмари, цирросангвініус …"/>
+	<entry name="AstraMilitarum/Hydra:Idle#2" value="Зірки тут приголомшливі."/>
+	<entry name="AstraMilitarum/Hydra:Idle#3" value="На цій планеті дивовижні заходи, сер."/>
 	<entry name="AstraMilitarum/Hydra:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/Hydra:Shaken#0" value="Кто-то по нам стреляет, сэр."/>
+	<entry name="AstraMilitarum/Hydra:Shaken#0" value="Хтось по нас стріляє, сер."/>
 	<entry name="AstraMilitarum/Hydra:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:Victory#0" value="Небо чистое, сэр."/>
+	<entry name="AstraMilitarum/Hydra:Victory#0" value="Небо чисте, сер."/>
 	<entry name="AstraMilitarum/Hydra:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/Hydra:WireWeed#0" value="Наземные путальщики, сэр."/>
+	<entry name="AstraMilitarum/Hydra:WireWeed#0" value="Наземні плутанці, сер."/>
 	<entry name="AstraMilitarum/Hydra:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedFaction:SpaceMarines#0" value="Бастион сообщает, что дружеские Адептус Астартес подходят к нашему периметру."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedFaction:SpaceMarines#0" value="Бастіон повідомляє, що дружні Адептус Астартес підходять до нашого периметру."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/Baneblade#0" value="Приятно видеть Гибельный клинок, сэр. Особенно, когда его оружие направлено в другую сторону."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/Baneblade#0" value="Приємно бачити Згубний клинок, сер. Особливо, коли його зброя направлена в інший бік."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/BanebladeCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Бастион дежится, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Бастіон тримається, сер."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Artefact#0" value="Бастион сообщает об артефакте Ксеносов вблизи от него."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Artefact#0" value="Бастіон повідомляє про артефакт ксеносів поблизу від нього."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Attack#0" value="Бастион ведет огонь."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Attack#0" value="Бастіон веде вогонь."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Broken#0" value="Бастион потерян, повторяю, Бастион потерян!"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Broken#0" value="Бастіон втрачено, повторюю, Бастіон втрачено!"/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:AstraMilitarum#0" value="Бастион сообщает о передвижении предателей по его периферии."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:AstraMilitarum#0" value="Бастіон повідомляє про пересування зрадників по його периферії."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Necrons#0" value="Бастион сообщает, что движутся Некроны."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Necrons#0" value="Бастіон повідомляє, що рухаються Некрони."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Orks#0" value="Бастион сообщает о присутствии Орков."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Orks#0" value="Бастіон повідомляє про присутність Орків."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarines#0" value="Бастион сообщает… сохрани нас Император … враждебные Адептус Астартес."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarines#0" value="Бастіон повідомляє… збережи нас Імператор … ворожі Адептус Астартес."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/Enslaver#0" value="Бастион сообщает о Ксеносе—Поработителе, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/Enslaver#0" value="Бастіон повідомляє про Ксеноса—Поневолювача, сер."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Hurt#0" value="Бастион сообщает—мы не уверены, сможем ли мы выжить, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Hurt#0" value="Бастіон повідомляє—ми не впевнені, чи зможемо ми вижити, сер."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#0" value="Гвардия на чеку, сэр."/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#1" value="Всегда бдительны."/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#2" value="Бастион сообщает—никаких изменений."/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#3" value="Все тихо, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#0" value="Гвардія напоготові, сер."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#1" value="Завжди пильні."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#2" value="Бастіон повідомляє—жодних змін."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#3" value="Все тихо, сер."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Shaken#0" value="Сэр, вы нас слышите? Мы под огнем."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Shaken#0" value="Сер, ви нас чуєте? Ми під вогнем."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:Victory#0" value="Бастион удержан, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Victory#0" value="Бастіон утримано, сер."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/ImperialStrongpoint:WireWeed#0" value="Биопроволока проникла в командный центр, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:WireWeed#0" value="Біодріт проник у командний центр, сер."/>
 	<entry name="AstraMilitarum/ImperialStrongpoint:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedFaction:SpaceMarines#0" value="Космодесант присоединился к нам! Хорошо, мать их."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedFaction:SpaceMarines#0" value="Космодесант приєднався до нас! Добре, мати їх."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Еще один благородный пехотинец. Почему только Яррик получил свой собственный Гибельный клинок?"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Ще один благородний піхотинець. Чому тільки Яррік отримав свій власний Згубний клинок?"/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Artefact#0" value="Охранять артефакт? С превеликим удовольствием."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Artefact#0" value="Охороняти артефакт? З превеликою радістю."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Attack#0" value="Посылаем им снаряды с любовью, сэр."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Attack#0" value="Посилаємо їм снаряди з любов'ю, сер."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Broken#0" value="К сожалению, сэр, мы уходим."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Broken#0" value="На жаль, сер, ми йдемо."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Cover#0" value="За деревьями устраиваем засаду, сэр."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Cover#0" value="За деревами влаштовуємо засідку, сер."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarum#0" value="Мы будем перемалывать кости еретиков до наступления ночи."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarum#0" value="Ми будемо перемелювати кістки єретиків до настання ночі."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Necrons#0" value="Ух-ты, это же наши любимые цели—Некроны."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Necrons#0" value="Ого, це ж наші улюблені цілі—Некрони."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Orks#0" value="Готовы к самоуничтожению—орки любят захватывать танки Леман Русс."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Orks#0" value="Готові до самознищення—орки люблять захоплювати танки Леман Русс."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarines#0" value="Эта пушка предназначена для того, чтобы заставить Космодесантников плакать."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarines#0" value="Ця гармата призначена для того, щоб змусити Космодесантників плакати."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/Enslaver#0" value="Враждебный Ксенос—держим их на расстоянии."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/Enslaver#0" value="Ворожий Ксенос—тримаємо їх на відстані."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Hurt#0" value="Ничего себе, этот прошел прямо через броню!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Hurt#0" value="Нічого собі, цей пройшов прямо через броню!"/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#0" value="Леман Русс может двигаться?"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#1" value="Ремонтируем гусеницы."/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#2" value="Заправляем баки"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#3" value="Желаю, чтобы Паск был за рулем."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#0" value="Леман Русс може рухатися?"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#1" value="Ремонтуємо гусениці."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#2" value="Заправляємо баки"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#3" value="Бажаю, щоб Паск був за кермом."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Shaken#0" value="Танк подбит!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Shaken#0" value="Танк підбито!"/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:Victory#0" value="Очередная победа самого популярного танка галактики!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Victory#0" value="Чергова перемога найпопулярнішого танка галактики!"/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeed#0" value="Биопроволока-единственное, что встречается чаще, чем Леман Русс."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeed#0" value="Біодріт—єдине, що зустрічається частіше, ніж Леман Русс."/>
 	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarines#0" value="Всегда приятно видеть верных Астартес … особенно, если это неожиданно."/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarines#0" value="Завжди приємно бачити вірних Астартес … особливо, якщо це несподівано."/>
 	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Ух-ты, товарищ по оружию."/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Ого, товариш по зброї."/>
 	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Artefact#0" value="Ксеносская грязь. Мы должны сжечь это."/>
+	<entry name="AstraMilitarum/LordCommissar:Artefact#0" value="Ксеноський бруд. Ми повинні спалити це."/>
+
 	<entry name="AstraMilitarum/LordCommissar:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Attack#0" value="Стреляй в них или я пристрелю тебя!"/>
+	<entry name="AstraMilitarum/LordCommissar:Attack#0" value="Стріляй в них або я пристрелю тебе!"/>
 	<entry name="AstraMilitarum/LordCommissar:AttackCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Broken#0" value="Я не могу позволить людям видеть меня таким!"/>
+	<entry name="AstraMilitarum/LordCommissar:Broken#0" value="Я не можу дозволити людям бачити мене таким!"/>
 	<entry name="AstraMilitarum/LordCommissar:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Cover#0" value="Тактика требует укрыться, но это плохо повлияет на моральный дух."/>
+	<entry name="AstraMilitarum/LordCommissar:Cover#0" value="Тактика вимагає сховатися, але це погано вплине на моральний дух."/>
 	<entry name="AstraMilitarum/LordCommissar:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarum#0" value="Предатели! Отбросы! ВЫ ПРЕДСТАНЕТЕ ПЕРЕД ЛИЦОМ ПРАВОСУДИЯ ИМПЕРАТОРА!"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarum#0" value="Зрадники! Покидьки! ВИ ПОСТАНЕТЕ ПЕРЕД ОБЛИЧЧЯМ ПРАВОСУДДЯ ІМПЕРАТОРА!"/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Necrons#0" value="Жестяная мерзость. Давайте расплавим их, чтобы получить большее количество пуль."/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Necrons#0" value="Бляшана огида. Давайте розплавимо їх, щоб отримати більшу кількість куль."/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Orks#0" value="Зеленокожие бандиты. Имперская неумолимость должна заставить нас быстро расправиться с ними."/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Orks#0" value="Зеленошкірі бандити. Імперська невблаганність повинна змусити нас швидко розправитися з ними."/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:SpaceMarines#0" value="Это подонки, предатели самого гордого создания нашего Императора. Мы должны стереть их с лица галактики."/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:SpaceMarines#0" value="Це покидьки, зрадники найгордішого творіння нашого Імператора. Ми повинні стерти їх з лиця галактики."/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:EnemyUnit:Neutral/Enslaver#0" value="Ужасы Ксеноса в моей голове!"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyUnit:Neutral/Enslaver#0" value="Жахи Ксеноса в моїй голові!"/>
 	<entry name="AstraMilitarum/LordCommissar:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Hurt#0" value="Это только телесная рана."/>
+	<entry name="AstraMilitarum/LordCommissar:Hurt#0" value="Це лише тілесна рана."/>
 	<entry name="AstraMilitarum/LordCommissar:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#0" value="Правосудие так утомительно."/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#1" value="Пустые руки делают работу плохо."/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#2" value="Рацион делю пополам. Вот почему я выгляжу немного тощим."/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#3" value="Что бы сделал Каин?"/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#4" value="Адъютант! Почистите это снова!"/>
-	<entry name="AstraMilitarum/LordCommissar:Idle#5" value="Выполняй свой долг во имя … О, я всегда забываю об этом."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#0" value="Правосуддя так стомлює."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#1" value="Порожні руки роблять роботу погано."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#2" value="Раціон ділю навпіл. Ось чому я виглядаю трохи худим."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#3" value="Що б зробив Каїн?"/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#4" value="Ад'ютант! Почистіть це знову!"/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#5" value="Виконуй свій обов'язок в ім'я … Ох, я завжди забуваю про це."/>
 	<entry name="AstraMilitarum/LordCommissar:IdleCount" value="6"/>
-	<entry name="AstraMilitarum/LordCommissar:Shaken#0" value="Господи, избавь нас от Духа гордыни."/>
+	<entry name="AstraMilitarum/LordCommissar:Shaken#0" value="Господи, позбав нас від Духу гордині."/>
 	<entry name="AstraMilitarum/LordCommissar:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:Victory#0" value="Подавать пример своим войскам."/>
+	<entry name="AstraMilitarum/LordCommissar:Victory#0" value="Подавати приклад своїм військам."/>
 	<entry name="AstraMilitarum/LordCommissar:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/LordCommissar:WireWeed#0" value="Было бы безрассудно оставаться в биопроволоке, каким бы храбрым я ни был."/>
+	<entry name="AstraMilitarum/LordCommissar:WireWeed#0" value="Було б безглуздо залишатися в біодроті, яким би хоробрим я не був."/>
 	<entry name="AstraMilitarum/LordCommissar:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarines#0" value="Некоторые Астартес там внизу дружественны нам."/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarines#0" value="Деякі Астартес там внизу дружні до нас."/>
 	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/Thunderbolt#0" value="Приятно иметь поддержку истребителей."/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/Thunderbolt#0" value="Приємно мати підтримку винищувачів."/>
 	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/ThunderboltCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Artefact#0" value="Видна высокая цель."/>
+	<entry name="AstraMilitarum/MarauderBomber:Artefact#0" value="Видна висока ціль."/>
 	<entry name="AstraMilitarum/MarauderBomber:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Attack#0" value="Бомбим."/>
-	<entry name="AstraMilitarum/MarauderBomber:Attack#1" value="Если вы можете видеть их, мы можем ударить по ним."/>
-	<entry name="AstraMilitarum/MarauderBomber:Attack#2" value="Открыть створки бомболюков."/>
-	<entry name="AstraMilitarum/MarauderBomber:Attack#3" value="Все под бомбами—это честная игра."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#0" value="Бомбимо."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#1" value="Якщо ви можете бачити їх, ми можемо вдарити по них."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#2" value="Відкрити стулки бомболюків."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#3" value="Все під бомбами—це чесна гра."/>
 	<entry name="AstraMilitarum/MarauderBomber:AttackCount" value="4"/>
-	<entry name="AstraMilitarum/MarauderBomber:Broken#0" value="Мы падаем!"/>
+	<entry name="AstraMilitarum/MarauderBomber:Broken#0" value="Ми падаємо!"/>
 	<entry name="AstraMilitarum/MarauderBomber:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Cover#0" value="Если бы мы не летали низко, тогда зачем нам нужны эти звуки?"/>
+	<entry name="AstraMilitarum/MarauderBomber:Cover#0" value="Якби ми не літали низько, тоді навіщо нам потрібні ці звуки?"/>
 	<entry name="AstraMilitarum/MarauderBomber:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Hurt#0" value="Мы потеряли три двигателя, у нас больше дыр, чем у племенного грокса, вокс не отвечает, и мы теряем топливо…"/>
+	<entry name="AstraMilitarum/MarauderBomber:Hurt#0" value="Ми втратили три двигуни, у нас більше дірок, ніж у племінного грокса, вокс не відповідає, і ми втрачаємо паливо…"/>
 	<entry name="AstraMilitarum/MarauderBomber:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Idle#0" value="Я не особо умею произносить речи."/>
-	<entry name="AstraMilitarum/MarauderBomber:Idle#1" value="Клянусь, Карпентер, эти бомбы говорят об обратном."/>
-	<entry name="AstraMilitarum/MarauderBomber:Idle#2" value="Кто-нибудь знает, как посадить эту штуку?"/>
-	<entry name="AstraMilitarum/MarauderBomber:Idle#3" value="Практика -критерий истины, как говорится в Наставлении."/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#0" value="Я не особливо вмію виголошувати промови."/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#1" value="Клянуся, Карпентер, ці бомби говорять про зворотне."/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#2" value="Хто-небудь знає, як посадити цю штуку?"/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#3" value="Практика—критерій істини, як кажеться в Настанові."/>
 	<entry name="AstraMilitarum/MarauderBomber:IdleCount" value="4"/>
-	<entry name="AstraMilitarum/MarauderBomber:Shaken#0" value="Переходим на большие высоты—зенитки стреляют по нам."/>
+	<entry name="AstraMilitarum/MarauderBomber:Shaken#0" value="Переходимо на великі висоти—зенітки стріляють по нас."/>
 	<entry name="AstraMilitarum/MarauderBomber:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/MarauderBomber:Victory#0" value="Какова ближайшая цель?"/>
+	<entry name="AstraMilitarum/MarauderBomber:Victory#0" value="Яка найближча ціль?"/>
 	<entry name="AstraMilitarum/MarauderBomber:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarines#0" value="Я чувствую … очень хорошо их."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarines#0" value="Я відчуваю … дуже добре їх."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Ум, искаженный абсолютизмом … захватывающий."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Розум, спотворений абсолютизмом … захоплюючий."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Artefact#0" value="Древние строили эти маленькие игрушки."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Artefact#0" value="Древні будували ці маленькі іграшки."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:ArtefactCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Attack#0" value="Ваш разум сгорит …"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Attack#1" value="Я чувствую на себе взгляд Императора."/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Attack#2" value="Я сожгу тебя во имя Его."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#0" value="Ваш розум згорить …"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#1" value="Я відчуваю на собі погляд Імператора."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#2" value="Я спалю тебе в ім'я Його."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:AttackCount" value="3"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Broken#0" value="Его свет… где Его свет?"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Broken#0" value="Його світло… де Його світло?"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:BrokenCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Cover#0" value="Скрытый разум—это мудрый разум."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Cover#0" value="Схований розум—це мудрий розум."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:CoverCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:AstraMilitarum#0" value="Похоже, у нас два мнения."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:AstraMilitarum#0" value="Схоже, у нас дві думки."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:AstraMilitarumCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Necrons#0" value="От них ничего не исходит. Ничего."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Necrons#0" value="Від них нічого не виходить. Нічого."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:NecronsCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Orks#0" value="От них исходит волна, такая свирепая, любимая эмоция."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Orks#0" value="Від них виходить хвиля, така люта, улюблена емоція."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:OrksCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarines#0" value="Такая сильная уверенность… на поверхности."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarines#0" value="Така сильна впевненість… на поверхні."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/Enslaver#0" value="Я чувствую его голод, его желание поглотить наш разум."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/Enslaver#0" value="Я відчуваю його голод, його бажання поглинути наш розум."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/EnslaverCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Hurt#0" value="Это просто плоть."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Hurt#0" value="Це просто плоть."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:HurtCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Idle#0" value="Даже сквозь эти бури я всё ещё вижу Его свет."/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Idle#1" value="Я знаю, что ты думаешь…"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Idle#2" value="Праздная работа для пустых умов"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#0" value="Навіть крізь ці бурі я все ще бачу Його світло."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#1" value="Я знаю, що ти думаєш…"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#2" value="Марна робота для порожніх умів"/>
 	<entry name="AstraMilitarum/PrimarisPsyker:IdleCount" value="3"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Shaken#0" value="Лучше умереть здесь, чем попасть на Черный Корабль."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Shaken#0" value="Краще померти тут, ніж потрапити на Чорний Корабель."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:ShakenCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:Victory#0" value="Как предвидел и Император."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Victory#0" value="Як і передбачав Імператор."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:VictoryCount" value="1"/>
-	<entry name="AstraMilitarum/PrimarisPsyker:WireWeed#0" value="Здесь есть жизнь, хоть и странная, и кровавая."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:WireWeed#0" value="Тут є життя, хоч і дивне, і криваве."/>
 	<entry name="AstraMilitarum/PrimarisPsyker:WireWeedCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarines#0" value="Большие наплечники, это Космодесант!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarines#0" value="Великі наплічники, це Космодесант!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarinesCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Могу ли я вернуться на передовую?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Чи можу я повернутися на передову?"/>
 	<entry name="AstraMilitarum/ScoutSentinel:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
-	<entry name="AstraMilitarum/ScoutSentinel:Artefact#0" value="Ух ты, ты должен это увидеть!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Artefact#0" value="Ого, ти повинен це побачити!"/>
+	
 	<entry name="AstraMilitarum/ScoutSentinel:ArtefactCount" value="1"/>
 	<entry name="AstraMilitarum/ScoutSentinel:Attack#0" value="Пульнём из всего, что у нас есть!"/>
 	<entry name="AstraMilitarum/ScoutSentinel:AttackCount" value="1"/>
